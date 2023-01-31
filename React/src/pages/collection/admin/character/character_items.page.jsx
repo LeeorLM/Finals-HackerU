@@ -14,7 +14,6 @@ const MangaItemsPage = () => {
 
   useEffect(() => {
     getAllCharacters();
-    console.log("use effect");
   }, []);
 
   const handleDeleteCharacter = (id) => {
@@ -28,7 +27,6 @@ const MangaItemsPage = () => {
         setCharacterArr(newCharacterArr);
       })
       .catch((err) => {
-        console.log("err", err);
         toast.error("cannot delete the selected card", {
           position: "top-right",
           autoClose: 5000,
@@ -62,7 +60,6 @@ const MangaItemsPage = () => {
   };
 
   const handleEditCharacter = (_id, updatedCard) => {
-    console.log("updatedCard", updatedCard);
     axios
       .put("/character/" + _id, updatedCard)
       .then((res) => {
@@ -83,11 +80,9 @@ const MangaItemsPage = () => {
     axios
       .get("/character/getallcharacters")
       .then((res) => {
-        console.log("mangas", res.data);
         setCharacterArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "6368f149bf360cd3cf326b6a"
+  },
+  "book_title": "Dragon Ball Super 1",
+  "manga_name": "Dragon Ball Super",
+  "volume_name": "Warriors from Universe 6! ",
+  "vol_no": 1,
+  "book_description": "Goku is starting to get bored with his life on Earth, but trouble is brewing elsewhere in the universe. The God of Destruction, Beerus, is traveling from planet to planet in search of food and entertainment. After blowing up some hapless victims, Beerus is reminded of a man from his dreams with the moniker \"Super Saiyan God,\" or something like that… The God of Destruction sets his sights on Earth to track down this mysterious man! Maybe this will give Goku something to do?",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Shueisha Publishing Co., Ltd.",
+  "isbn": "978-1421592541",
+  "book_image": "https://www.rightstufanime.com/images/productImages/9781421592541_manga-dragon-ball-super-volume-1-primary.jpg?resizeid=5&resizeh=1000&resizew=1000",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1667821897339"
+    }
+  },
+  "__v": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1668605054075"
+    }
+  },
+  "likes": 13
+},{
+  "_id": {
+    "$oid": "637220d6ce3da69ed41f50c2"
+  },
+  "book_title": "Dragon Ball Super 2",
+  "manga_name": "Dragon Ball Super",
+  "volume_name": "The Winning Universe is Decided!",
+  "vol_no": 2,
+  "book_description": "The Universe 6 and 7 Invitational Fighting Tournament continues. Goku faces off against a guy who looks exactly like Freeza. Heck, the guy even has the same transformations and powers as Freeza! Will Goku and the other warriors from Universe 7 be able to win the tournament and get the ultimate prize—the Super Dragon Balls?!",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": " Shueisha Publishing Co., Ltd.",
+  "isbn": "978-1-9747-0115-5",
+  "book_image": "https://www.rightstufanime.com/images/productImages/9781421596471_manga-dragonball-super-2-primary.jpg?resizeid=5&resizeh=1000&resizew=1000",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423894962"
+    }
+  },
+  "__v": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1668605001717"
+    }
+  },
+  "likes": 13
+},{
+  "_id": {
+    "$oid": "63722105ce3da69ed41f50ca"
+  },
+  "book_title": "Dragon Ball Super 3",
+  "manga_name": "Dragon Ball Super",
+  "volume_name": "Zero Mortal Project!",
+  "vol_no": 3,
+  "book_description": "With the Universe 6 and 7 Invitational Fighting Tournament over, Goku and his friends return to their normal lives. That is, until Future Trunks suddenly appears to warn everyone of a new threat—Goku Black, a mysterious warrior who looks like Goku but isn't him! He's a monster who has wiped out most of Earth and all of the Gods of Destruction and Lords of Lords from all twelve universes. Who is this mysterious man, and will Goku and his friends be able to stop him?!",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Viz Media",
+  "isbn": "978-1-4215-9946-5",
+  "book_image": "https://www.rightstufanime.com/images/productImages/9781421599465_manga-dragon-ball-super-volume-3-primary.jpg?resizeid=5&resizeh=1000&resizew=1000",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423941350"
+    }
+  },
+  "__v": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672835880182"
+    }
+  },
+  "likes": 9
+},{
+  "_id": {
+    "$oid": "63722107ce3da69ed41f50cd"
+  },
+  "book_title": "Dragon Ball Super 4",
+  "manga_name": "Dragon Ball Super",
+  "volume_name": "Last Chance For Hope ",
+  "vol_no": 4,
+  "book_description": "Goku Black’s identity has been revealed as Zamas, the lord of lords from Universe 10! But he’s not alone—his counterpart from the parallel universe has teamed up with him and, thanks to the super Dragon Balls, they are nearly unstoppable! In the present, Goku trains with Master Roshi to perfect the Mafuba and seal Zamas away. Meanwhile, Kaiô-shin takes Lord Gowas, Zamas’s mentor, to the parallel universe to try and push his former pupil",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Viz Media",
+  "isbn": "978-1-9747-0144-5",
+  "book_image": "https://www.rightstufanime.com/images/productImages/9781974701445_manga-dragon-ball-super-volume-4-primary.jpg?resizeid=5&resizeh=1000&resizew=1000",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423943051"
+    }
+  },
+  "__v": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672835925319"
+    }
+  },
+  "likes": 9
+},{
+  "_id": {
+    "$oid": "63722109ce3da69ed41f50d0"
+  },
+  "book_title": "Naruto 1",
+  "manga_name": "Naruto",
+  "volume_name": "Naruto Uzumaki",
+  "vol_no": 1,
+  "book_description": "Once upon a time, the Nine-Tailed Demon Fox devastated the shinobi village of Konohagakure, and was only stopped when the village's leader, the Fourth Hokage, gave up his life to seal it within the body of an infant. Twelve years later, a young orphan boy named Naruto Uzumaki regularly pulls pranks and is constantly causing trouble around the village. The villagers dislike him for it, but having no parents or friends, Naruto craves even negative attention. ",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": " Viz Media ",
+  "isbn": "978-1-56931-900-0",
+  "book_image": "https://simania.co.il/bookimages/covers85/851804.jpg",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423945056"
+    }
+  },
+  "__v": 0,
+  "likes": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672835353984"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63722110ce3da69ed41f50d6"
+  },
+  "book_title": "One Piece 1",
+  "manga_name": "One Piece",
+  "volume_name": "ROMANCE DAWN - The Dawn of the Adventure",
+  "vol_no": 1,
+  "book_description": "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda that has been translated into various languages[1][2][3] and spawned a substantial media franchise. It follows the adventures of a young man named Monkey D. Luffy, whose body gains the properties of rubber from accidentally eating a supernatural fruit which is called the devil fruit, as he travels the oceans in search of the' titular treasure and gathers himself a diverse crew of pirates, named the Straw Hats. In Japan, the series is published by Shueisha",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Viz Media",
+  "isbn": "978-4-08-872509-3",
+  "book_image": "https://m.media-amazon.com/images/I/71kvo+fijnL.jpg",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423952186"
+    }
+  },
+  "__v": 0,
+  "likes": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672835976311"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63722114ce3da69ed41f50dc"
+  },
+  "book_title": "Boruto: Naruto Next Generations 1",
+  "manga_name": "Boruto: Naruto Next Generations",
+  "volume_name": "Uzumaki Boruto!!",
+  "vol_no": 1,
+  "book_description": "Years have passed since Naruto and Sasuke teamed up to defeat Kaguya, the progenitor of chakra and the greatest threat the ninja world has ever faced. Times are now peaceful and the new generation of shinobi has not experienced the same hardships as its parents. Perhaps that is why Boruto would rather play video games than train. However, one passion does burn deep in this ninja boy’s heart, and that is the desire to defeat his father! ",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Viz Media",
+  "isbn": "978-1-42-159211-4 ",
+  "book_image": "https://m.media-amazon.com/images/I/61lpmdy4VHL.jpg",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1668423956695"
+    }
+  },
+  "__v": 0,
+  "likes": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672835748055"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b173df185d7dd89b7fc3d1"
+  },
+  "book_title": "Bleach 1",
+  "manga_name": "Bleach",
+  "volume_name": "THE DEATH AND THE STRAWBERRY",
+  "vol_no": 1,
+  "book_description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Shinigami and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family, but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Shinigami himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia - who is slowly regaining her powers - it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace.",
+  "retail_value": 9.99,
+  "collection_value": 9.99,
+  "publisher": "Shueisha",
+  "isbn": "978-1-59116-441-8",
+  "book_image": "https://kbimages1-a.akamaihd.net/20ce5810-226e-419c-b0e2-686045d1e397/1200/1200/False/bleach-vol-1.jpg",
+  "likes": 1,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672573919867"
+    }
+  },
+  "__v": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672574110712"
+    }
+  }
+}]

@@ -9,7 +9,6 @@ const BookTopComponent = () => {
 
   useEffect(() => {
     getBookLikes();
-    console.log("use effect");
   }, []);
 
   const compareLikes = (a, b) => {
@@ -20,11 +19,9 @@ const BookTopComponent = () => {
     axios
       .get("/book/getallbooks")
       .then((res) => {
-        console.log("books likes", res.data);
         setBookLikesArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

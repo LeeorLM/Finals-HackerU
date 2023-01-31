@@ -82,11 +82,8 @@ const RegisterUserPage = () => {
           } else if (data.data.status === "success") {
             toast("new user successfuly created");
           }
-          console.log(data.data);
         })
-        .catch((err) => {
-          console.log("something went wrong", err);
-        });
+        .catch((err) => {});
     }
   };
 

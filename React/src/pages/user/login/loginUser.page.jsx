@@ -51,14 +51,12 @@ const LoginUserPage = () => {
             toast("invalid email and/or password");
           } else if (data.data.msg === "here your token") {
             toast("user successfuly logged in");
-            console.log("data", data.data);
+
             afterLogin(data.data.data);
             navigate("/");
           }
         })
-        .catch((err) => {
-          console.log("something went wrong", err);
-        });
+        .catch((err) => {});
     }
   };
 
@@ -84,11 +82,8 @@ const LoginUserPage = () => {
         .post("/user/forgetpassword", dataToSend)
         .then((data) => {
           // toast();
-          console.log("forgotPassword", data.data);
         })
-        .catch((err) => {
-          console.log("something went wrong", err);
-        });
+        .catch((err) => {});
     }
   };
   return (

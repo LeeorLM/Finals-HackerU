@@ -14,7 +14,6 @@ const BookItemsPage = () => {
 
   useEffect(() => {
     getAllBooks();
-    console.log("use effect");
   }, []);
 
   const handleDeleteBook = (id) => {
@@ -28,7 +27,6 @@ const BookItemsPage = () => {
         setBookArr(newBookArr);
       })
       .catch((err) => {
-        console.log("err", err);
         toast.error("cannot delete the selected card", {
           position: "top-right",
           autoClose: 5000,
@@ -63,7 +61,6 @@ const BookItemsPage = () => {
   };
 
   const handleEditBook = (_id, updatedCard) => {
-    console.log("updatedCard", updatedCard);
     axios
       .put("/book/" + _id, updatedCard)
       .then((res) => {
@@ -84,11 +81,9 @@ const BookItemsPage = () => {
     axios
       .get("/book/getallbooks")
       .then((res) => {
-        console.log("books", res.data);
         setBookArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

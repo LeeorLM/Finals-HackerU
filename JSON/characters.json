@@ -1,0 +1,577 @@
+[{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89a"
+  },
+  "character_name": "Haruno, Sakura",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c",
+  "likes": 2,
+  "created_at": "2023-01-27T11:58:46.456Z"
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89b"
+  },
+  "character_name": "Hatake, Kakashi",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Main",
+  "character_background": "Kakashi Hatake (はたけカカシ, Hatake Kakashi) is a shinobi of Konohagakure's Hatake clan. Famed as Kakashi of the Sharingan (写輪眼のカカシ, Sharingan no Kakashi), he is one of Konoha's most talented ninja, regularly looked to for advice and leadership despite his personal dislike of responsibility. To his students on Team 7, Kakashi emphasises the importance of teamwork; he himself received this lesson, along with the Sharingan, from his childhood friend, Obito Uchiha. After the Fourth Shinobi World War, Kakashi becomes Konoha's Sixth Hokage (六代目火影, Rokudaime Hokage, literally meaning: Sixth Fire Shadow).",
+  "character_image": "https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309",
+  "likes": 24,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997071521"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89c"
+  },
+  "character_name": "Uchiha, Sasuke",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Main",
+  "character_background": "Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) is one of the last surviving members of Konohagakure's Uchiha clan. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. He is added to Team 7 upon becoming a ninja and, through competition with his rival and best friend, Naruto Uzumaki, Sasuke starts developing his skills. Dissatisfied with his progress, he defects from Konoha so that he can acquire the strength needed to exact his revenge. His years of seeking vengeance and his actions that followed become increasingly demanding, irrational and isolates him from others, leading him to be branded as an international criminal. After learning the truth of his brother's sacrifice, later proving instrumental in ending the Fourth Shinobi World War, and being happily redeemed by Naruto, Sasuke decides to return to Konoha and dedicate his life to help protect the village and its inhabitants, becoming referred to as the \"Supporting Kage\" (支う影, Sasaukage, literally meaning: Supporting Shadow).",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e",
+  "likes": 102,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997097785"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89d"
+  },
+  "character_name": "Uzumaki, Naruto",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Main",
+  "character_background": "Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja, regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the Hero of the Hidden Leaf (木ノ葉隠れの英雄, Konohagakure no Eiyū, literally meaning: Hero of the Hidden Tree Leaves). He soon proved to be one of the main factors in winning the Fourth Shinobi World War, leading him to achieve his dream and become the village's Seventh Hokage (七代目火影, Nanadaime Hokage, literally meaning: Seventh Fire Shadow)",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/284121.jpg?s=3ebac88ad166bf105d8f04894f3fb469",
+  "likes": 126,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997004863"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89e"
+  },
+  "character_name": "Hyuuga, Hinata",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "Hinata Uzumaki (うずまきヒナタ, Uzumaki Hinata, née Hyūga (日向)) is a kunoichi of Konohagakure. Formerly the heiress of the Hyūga clan, she lost the position upon being deemed unsuited for the responsibilities of leading the clan. Nonetheless, Hinata persevered and from her observation of Naruto Uzumaki especially, Hinata found an example to follow. Through her membership with Team 8, she sought to become strong enough to change herself, if even a little at a time. A few years after the Fourth Shinobi World War, Hinata joined the Uzumaki clan after marrying Naruto.",
+  "character_image": "https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9",
+  "likes": 0,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997210317"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb89f"
+  },
+  "character_name": "Jiraiya",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "Jiraiya (自来也) was one of Konohagakure's Sannin. Famed as a hermit and pervert of stupendous ninja skill, Jiraiya travelled the world in search of knowledge that would help his friends, the various novels he wrote, and, posthumously, the world in its entirety – knowledge that would be passed on to his godson and final student, Naruto Uzumaki.",
+  "character_image": "https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7",
+  "likes": 1,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997170612"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb8a0"
+  },
+  "character_name": "Uchiha, Madara",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/12/450359.jpg?s=40bd9ba9baf6061b3f394b6c4b9978bc",
+  "likes": 1,
+  "created_at": "2023-01-27T11:58:46.456Z"
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb8a1"
+  },
+  "character_name": "Namikaze, Minato",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "Minato Namikaze (波風ミナト, Namikaze Minato) was the Fourth Hokage (四代目火影, Yondaime Hokage, literally meaning: Fourth Fire Shadow) of Konohagakure. He was renowned all over the world as Konoha's Yellow Flash (木ノ葉の黄色い閃光, Konoha no Kiiroi Senkō, English TV: Yellow Flash of the Leaf). He died during the Nine-Tailed Demon Fox's Attack, sacrificing his life to seal a part of the Nine-Tails into his newborn son, Naruto Uzumaki.",
+  "character_image": "https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b",
+  "likes": 1,
+  "created_at": "2023-01-27T11:58:46.456Z",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674997146829"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb8a2"
+  },
+  "character_name": "Uchiha, Itachi",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622",
+  "likes": 1,
+  "created_at": "2023-01-27T11:58:46.456Z"
+},{
+  "_id": {
+    "$oid": "63d3be018b07a8630c5fb8a3"
+  },
+  "character_name": "Umino, Iruka",
+  "manga_name": [
+    "Naruto"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158",
+  "likes": 0,
+  "created_at": "2023-01-27T11:58:46.456Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8a6"
+  },
+  "character_name": "Abarai, Renji",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/10/171877.jpg?s=e4fb4773c11884cd26a4eaed44ca3f6d",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8a7"
+  },
+  "character_name": "Inoue, Orihime",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/15/495573.jpg?s=0aaff9635640c3a847c79b23094b4e56",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8a8"
+  },
+  "character_name": "Ishida, Uryuu",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/16/139189.jpg?s=c45c92f3d197dbbe891cfd266f487c2f",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8a9"
+  },
+  "character_name": "Kuchiki, Rukia",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/78215.jpg?s=2a0f7f516f3e5b213833e9f9a9de4a51",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8aa"
+  },
+  "character_name": "Kurosaki, Ichigo",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/3/89190.jpg?s=58f441dea1eca62b2e93b3f87a4e666a",
+  "likes": 1,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8ab"
+  },
+  "character_name": "Sado, Yasutora",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/102739.jpg?s=62a1f21a246934b22b8e46a8db7259bf",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3bf7f8b07a8630c5fb8ac"
+  },
+  "character_name": "Aizen, Sousuke",
+  "manga_name": [
+    "Bleach"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/16/73909.jpg?s=1a450d31fd432b46314048dbb3915fc4",
+  "likes": 0,
+  "created_at": "2023-01-27T12:09:52.288Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8af"
+  },
+  "character_name": "Bulma",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/14/280893.jpg?s=2b0fdc4d608cdb9f6ca28d6192cb9251",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b0"
+  },
+  "character_name": "Kuririn",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=19014a6433cd36c32f3661b21b38dad3",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b1"
+  },
+  "character_name": "Piccolo",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/8/45628.jpg?s=7f3263916ca42434072fb20a7590c277",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b2"
+  },
+  "character_name": "Son, Gohan",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/72715.jpg?s=886561eebbd32941685b470ff9ed78a2",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b3"
+  },
+  "character_name": "Son, Gokuu",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=c434a442d8ad1212885a8d02dbcbbee0",
+  "likes": 69,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b4"
+  },
+  "character_name": "Vegeta",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/14/86185.jpg?s=145f25d852734f70db55a92cab54b27b",
+  "likes": 1,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b5"
+  },
+  "character_name": "Bardock",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/6/103847.jpg?s=c38c133a809e886e0b01fec8e6bb13ee",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d3808b07a8630c5fb8b6"
+  },
+  "character_name": "Cell",
+  "manga_name": [
+    "Dragon Ball"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/108594.jpg?s=11c75ff4c82ecb2c957dfebede7ab260",
+  "likes": 0,
+  "created_at": "2023-01-27T12:19:51.497Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8b7"
+  },
+  "character_name": "Brook",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/10/161005.jpg?s=8e3191d4d9691fffe3dafaefaf086014",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8b8"
+  },
+  "character_name": "Franky",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/13/210053.jpg?s=58f71be3af78384ac43869b8c681efaf",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8b9"
+  },
+  "character_name": "Jinbe",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/15/307148.jpg?s=20f8bf1d3a9854be84b67367849b1322",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8ba"
+  },
+  "character_name": "Monkey D., Luffy",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=3a27ab33bee665febfba970f24f203ba",
+  "likes": 168,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8bb"
+  },
+  "character_name": "Nami",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/263249.jpg?s=e6c7015918ec37d6b31d680f8944790c",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8bc"
+  },
+  "character_name": "Nico, Robin",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/13/136773.jpg?s=d3e32396042cafb9680a0d5223c4b018",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8bd"
+  },
+  "character_name": "Roronoa, Zoro",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/3/100534.jpg?s=4a00840eacc26e9ad86bae6f505e4826",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8be"
+  },
+  "character_name": "Sanji",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/5/136769.jpg?s=52b8fdfc38114a389d83dd5301842556",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8bf"
+  },
+  "character_name": "Tony Tony, Chopper",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/3/100536.jpg?s=9536cd3e6fe65064a110b8d8b2f2808e",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c0"
+  },
+  "character_name": "Usopp",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Main",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/16/188076.jpg?s=f24eccad7d76e7747895a9a945d8a3ed",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c1"
+  },
+  "character_name": "Shanks",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/9/307639.jpg?s=175776bc9b9338bdc8f64520b1699548",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.956Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c2"
+  },
+  "character_name": "Eustass, Kid",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/12/146187.jpg?s=2dbc3ca21d5d033e5441c16b2a218793",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c3"
+  },
+  "character_name": "Monkey D., Dragon",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/6/193567.jpg?s=5595b229d83ad170578a7c0ed884e346",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c4"
+  },
+  "character_name": "Monkey D., Garp",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/10/48660.jpg?s=0402e6b3f1fc9a138a3d4ed2313b2490",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c5"
+  },
+  "character_name": "Gol D., Roger",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/3/51747.jpg?s=ae111a084d5f0cba17856337c956bc36",
+  "likes": 1,
+  "created_at": "2023-01-27T13:42:03.955Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c6"
+  },
+  "character_name": "Portgas D., Ace",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/2/72220.jpg?s=e92b075a899b3b5d3cdac70615d8853b",
+  "likes": 1,
+  "created_at": "2023-01-27T13:42:03.956Z"
+},{
+  "_id": {
+    "$oid": "63d3d5c98b07a8630c5fb8c7"
+  },
+  "character_name": "Portgas D., Rouge",
+  "manga_name": [
+    "One Piece"
+  ],
+  "character_role": "Supporting",
+  "character_background": "No Info",
+  "character_image": "https://cdn.myanimelist.net/images/characters/6/96173.jpg?s=6d453870f4eabe64dc7d6986a4c9c993",
+  "likes": 0,
+  "created_at": "2023-01-27T13:42:03.956Z"
+}]

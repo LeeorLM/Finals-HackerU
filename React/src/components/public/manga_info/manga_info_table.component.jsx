@@ -27,12 +27,8 @@ const MangaInfoTableComponent = ({
     onLike(_id, manga_title);
     axios
       .put("/manga/like/" + _id)
-      .then((res) => {
-        console.log(res);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
   return (
     <tr>

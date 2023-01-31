@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "637115604a28ae9443a437c7"
+    },
+    "first_name": "Admin",
+    "last_name": "System",
+    "user_email": "admin@gmail.com",
+    "user_password": "$2a$10$sCV0aVmVP9fAZYT4WbXP2.aRU.D54W9ArFr0qSb7h9/rppsw6rhla",
+    "user_phone": "0542369875",
+    "user_image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "isAdmin": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1668355424856"
+      }
+    },
+    "__v": 0
+  }
+]

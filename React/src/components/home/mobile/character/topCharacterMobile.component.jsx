@@ -9,7 +9,6 @@ const TopCharacterMobileComponent = () => {
 
   useEffect(() => {
     getMangaLikes();
-    console.log("use effect");
   }, []);
 
   const compareLikes = (a, b) => {
@@ -20,11 +19,9 @@ const TopCharacterMobileComponent = () => {
     axios
       .get("/character/getallcharacters")
       .then((res) => {
-        console.log("characters likes", res.data);
         setCharacterLikesArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

@@ -10,7 +10,6 @@ const MangaTop10Component = () => {
 
   useEffect(() => {
     getMangaLikes();
-    console.log("use effect");
   }, []);
 
   const compareLikes = (a, b) => {
@@ -21,11 +20,9 @@ const MangaTop10Component = () => {
     axios
       .get("/manga/getallmangas")
       .then((res) => {
-        console.log("mangas likes", res.data);
         setMangaLikesArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

@@ -11,7 +11,7 @@ const useAfterLogin = () => {
     localStorage.setItem("finalProjectToken", token);
     dispatch(authActions.login()); //update redux state
     const decoded = jwt_decode(token);
-    console.log("token decoded", decoded);
+
     dispatch(authActions.updateUserData(decoded));
     if (!window.localStorage.getItem("user_id")) {
       window.localStorage.setItem("user_id", decoded.user_id);

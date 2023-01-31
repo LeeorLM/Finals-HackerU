@@ -21,7 +21,6 @@ const SingleBookPage = () => {
     getTheBook();
     getTheMangaByName();
     getTheCharactersByManga();
-    console.log("use effect");
   }, []);
 
   const handleShowMangaPopup = (_id) => {
@@ -42,11 +41,9 @@ const SingleBookPage = () => {
     axios
       .get("/character/getcharacter/" + origin)
       .then((res) => {
-        console.log("characters", res.data);
         setCharacterArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get manga", {
           position: "top-right",
           autoClose: 5000,
@@ -60,15 +57,12 @@ const SingleBookPage = () => {
   };
 
   const getTheMangaByName = () => {
-    console.log("origin", origin);
     axios
       .get("/manga/getmanga/" + origin)
       .then((res) => {
-        console.log("manga", res.data);
         setMangaArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get manga", {
           position: "top-right",
           autoClose: 5000,
@@ -85,11 +79,9 @@ const SingleBookPage = () => {
     axios
       .get("/book/getbooktitle/" + name)
       .then((res) => {
-        console.log("books", res.data);
         setBooksArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get manga", {
           position: "top-right",
           autoClose: 5000,

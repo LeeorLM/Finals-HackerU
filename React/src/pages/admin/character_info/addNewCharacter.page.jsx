@@ -67,11 +67,8 @@ const AddNewCharacterPage = () => {
         .post("/character/addnewcharacter", dataToSend)
         .then((data) => {
           toast("new character has been added");
-          console.log(data.data);
         })
-        .catch((err) => {
-          console.log("something went wrong axios", err);
-        });
+        .catch((err) => {});
     }
   };
 

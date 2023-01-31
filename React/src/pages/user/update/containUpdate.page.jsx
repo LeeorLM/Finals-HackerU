@@ -11,7 +11,6 @@ const ContainUpdatePage = () => {
 
   useEffect(() => {
     getUserInfo();
-    console.log("use effect user");
   }, []);
 
   const getUserInfo = () => {
@@ -20,11 +19,8 @@ const ContainUpdatePage = () => {
       .then((res) => {
         setUserInfoArr(res.data);
         // userArr = cloneDeep(res.data);
-        console.log("user", res.data);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   return <Fragment>{userInfoArr && <UpdateUserInfoPage {...userInfoArr} />}</Fragment>;

@@ -46,11 +46,8 @@ const UserLikesPage = () => {
         user_manga_liked = arr.liked_manga.map((item) => item.manga_id);
         user_book_liked = arr.liked_book.map((item) => item.book_id);
         user_character_liked = arr.liked_character.map((item) => item.character_id);
-        console.log("likedcharacter", user_character_liked);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const handleDeleteMangaLike = (id) => {
@@ -62,7 +59,6 @@ const UserLikesPage = () => {
         setMangaArr(newMangaLikeArr);
       })
       .catch((err) => {
-        console.log("err", err);
         toast.error("cannot delete the selected item", {
           position: "top-right",
           autoClose: 5000,
@@ -83,7 +79,6 @@ const UserLikesPage = () => {
         setBookArr(newBookLikeArr);
       })
       .catch((err) => {
-        console.log("err", err);
         toast.error("cannot delete the selected item", {
           position: "top-right",
           autoClose: 5000,
@@ -104,7 +99,6 @@ const UserLikesPage = () => {
         setCharacterArr(newCharacterLikeArr);
       })
       .catch((err) => {
-        console.log("err", err);
         toast.error("cannot delete the selected item", {
           position: "top-right",
           autoClose: 5000,
@@ -131,13 +125,10 @@ const UserLikesPage = () => {
           if (nameA > nameB) return 1;
           return 0; //default return value (no sorting)
         });
-        // console.log("profile mangas", mangaLiked);
+        //
         setMangaArr(mangaLiked);
-        console.log("dataManga", mangaLiked);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const getUserBookLiked = () => {
@@ -154,12 +145,10 @@ const UserLikesPage = () => {
           if (nameA > nameB) return 1;
           return 0; //default return value (no sorting)
         });
-        // console.log("profile mangas", bookLiked);
+        //
         setBookArr(bookLiked);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const getUserCharacterLiked = () => {
@@ -178,9 +167,7 @@ const UserLikesPage = () => {
         });
         setCharacterArr(characterLiked);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const getUrl = window.location.href;

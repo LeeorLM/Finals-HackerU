@@ -45,21 +45,15 @@ const PublicCharacterItemsPage = () => {
           .get("/user/like/getliked/" + userData.user_id + "/liked_character")
           .then((res) => {
             setUserCharacterLiked(res.data.liked_character);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       } else {
         axios
           .get("/user/like/getliked/" + localUserId + "/liked_character")
           .then((res) => {
             setUserCharacterLiked(res.data.liked_character);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       }
     } else {
       return;
@@ -69,7 +63,6 @@ const PublicCharacterItemsPage = () => {
   const handleShowPopup = (id) => {
     const ktemp = cloneDeep(characterArr.find((item) => item._id === id));
     setDataToShow(ktemp);
-    console.log(ktemp);
   };
 
   const handleCancelShow = () => {
@@ -91,8 +84,6 @@ const PublicCharacterItemsPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/character/" + user_id, newLikedItem)
       .then((res) => {
@@ -101,11 +92,8 @@ const PublicCharacterItemsPage = () => {
         if (res.data.status !== "fail") {
           toast("succesfuly liked item");
         }
-        console.log("new data", res);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const compareLikes = (a, b) => {
@@ -118,7 +106,6 @@ const PublicCharacterItemsPage = () => {
     setListPageNumber(pageNumber);
     setSliceFirstNumber(firstNumber);
     setSliceSecondNumber(secondNumber);
-    console.log("newMostLikedArr", mostLikedArr);
   };
 
   const getCharactersByLetter = (ev) => {
@@ -135,12 +122,10 @@ const PublicCharacterItemsPage = () => {
     axios
       .get("/character/getallcharacters")
       .then((res) => {
-        console.log("characters", res.data);
         setCharacterArr(res.data);
         setUnchangedCharacterArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

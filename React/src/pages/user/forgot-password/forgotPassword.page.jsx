@@ -24,11 +24,9 @@ const ForgetPasswordPage = () => {
           user_password,
         })
         .then((data) => {
-          console.log("success", data);
           redirect("/user/login");
         })
         .catch((err) => {
-          console.log("error", err);
           //* display error msg
         });
     }

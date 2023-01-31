@@ -38,7 +38,6 @@ const PublicMangaItemsPage = () => {
     // }
     getUserData();
     getAllMangas();
-    console.log("use effect");
   }, []);
 
   const getUserData = () => {
@@ -48,21 +47,15 @@ const PublicMangaItemsPage = () => {
           .get("/user/like/getliked/" + userData.user_id + "/liked_manga")
           .then((res) => {
             setUserMangaLiked(res.data.liked_manga);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       } else {
         axios
           .get("/user/like/getliked/" + localUserId + "/liked_manga")
           .then((res) => {
             setUserMangaLiked(res.data.liked_manga);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       }
     } else {
       return;
@@ -92,8 +85,6 @@ const PublicMangaItemsPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/manga/" + user_id, newLikedItem)
       .then((res) => {
@@ -102,11 +93,8 @@ const PublicMangaItemsPage = () => {
         if (res.data.status !== "fail") {
           toast("succesfuly liked item");
         }
-        console.log("new data", res);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const compareLikes = (a, b) => {
@@ -119,7 +107,6 @@ const PublicMangaItemsPage = () => {
     setListPageNumber(pageNumber);
     setSliceFirstNumber(firstNumber);
     setSliceSecondNumber(secondNumber);
-    console.log("newMostLikedArr", mostLikedArr);
   };
 
   const getMangasByLetter = (ev) => {
@@ -136,12 +123,10 @@ const PublicMangaItemsPage = () => {
     axios
       .get("/manga/getallmangas")
       .then((res) => {
-        console.log("mangas", res.data);
         setMangaArr(res.data);
         setUnchangedMangaArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

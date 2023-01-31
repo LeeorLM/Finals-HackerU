@@ -13,12 +13,8 @@ const MangaInfoCardComponent = ({ manga_title, type, manga_status, manga_image, 
     onLike(_id, manga_title);
     axios
       .put("/manga/like/" + _id)
-      .then((res) => {
-        console.log(res);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
   return (
     <div className="mobile-card col-6-sm col-12-sx">

@@ -37,11 +37,11 @@ function App() {
 
   useEffect(() => {
     const token = localStorage.getItem("finalProjectToken");
-    console.log("token", token);
+
     if (token !== null) {
       afterLogin(token);
     } else {
-      return console.log("no token");
+      return;
     }
   }, []);
 

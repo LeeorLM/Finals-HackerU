@@ -25,12 +25,8 @@ const CharacterInfoTableComponent = ({
     onLike(_id, character_name);
     axios
       .put("/character/like/" + _id)
-      .then((res) => {
-        console.log(res);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
   return (
     <tr>

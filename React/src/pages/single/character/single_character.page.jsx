@@ -17,15 +17,11 @@ const SingleCharacterPage = (title) => {
   useEffect(() => {
     getTheCharacter();
     getManga();
-    console.log("use effect");
   }, []);
 
   const handleShowMangaPopup = (id, title) => {
-    console.log("title", title);
     const ktemp = cloneDeep(mangaArr.find((item) => item.manga_title === title));
     setDataToShowManga(ktemp);
-    console.log("ktemp", ktemp);
-    console.log("related", relatedManga);
   };
 
   const handleCancelShow = () => {
@@ -36,12 +32,10 @@ const SingleCharacterPage = (title) => {
     axios
       .get("/character/" + id)
       .then((res) => {
-        console.log("characters", res.data);
         setCharacterArr(res.data);
         setRelatedManga(res.data.manga_name);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get manga", {
           position: "top-right",
           autoClose: 5000,
@@ -59,11 +53,8 @@ const SingleCharacterPage = (title) => {
       .get("/manga/getmanga/" + origin)
       .then((res) => {
         setMangaArr(res.data);
-        console.log("character mangas", res.data);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   return (

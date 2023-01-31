@@ -11,12 +11,8 @@ const CharacterInfoCardComponent = ({ character_name, manga_name, character_role
     onLike(_id, character_name);
     axios
       .put("/character/like/" + _id)
-      .then((res) => {
-        console.log(res);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
   return (
     <div className="mobile-card col-6-sm col-12-sx">

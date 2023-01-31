@@ -1,0 +1,778 @@
+[{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb91f"
+  },
+  "manga_title": "Hajime no Ippo",
+  "type": "Manga",
+  "manga_background": "Makunouchi Ippo is a 16-year-old high school student who helps his mother run the family business. His hefty workload impedes on his social life, making him an easy target for bullies. One day, while being beaten up by a group of high school students, Ippo is saved by a boxer named Mamoru Takamura, and is brought to the Kamogawa Boxing Gym. This afterschool bullying session turns his life around for the better as Ippo discovers his latent talent for boxing and decides to practice the sport professionally. However, Mamoru doubts Ippo's determination and assigns him a task deemed impossible to complete, but the resolute Ippo trains tirelessly to fulfill his mission. Along the way, he finds out what it means to attain true strength while making new friends and fighting formidable foes. [Written by MAL Rewrite]",
+  "story_description": "Hajime no Ippo has sold over 94 million copies as of October 2013 and won the 15th Kodansha Manga Award for Best Shounen Manga in 1991.",
+  "story_by": "Morikawa, George",
+  "art_by": "Morikawa, George",
+  "volumes": "",
+  "chapters": "",
+  "published": "Sep 27, 1989 to ?",
+  "genres": [
+    "Award Winning",
+    "Sports"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Publishing",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/250313l.jpg",
+  "likes": 59,
+  "created_at": "2023-01-27T14:47:44.090Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb921"
+  },
+  "manga_title": "Tsubasa: RESERVoir CHRoNiCLE",
+  "type": "Manga",
+  "manga_background": "Warmhearted Syaoran has always been friends with Sakura—the princess of the Clow Kingdom who holds an extraordinary power capable of changing the world. When a mysterious man attempts to monopolize Sakura's ability, her memories scatter throughout different worlds in the form of feathers. To save Sakura, Syaoran seeks help from the Dimensional Witch and meets two other travelers—Kurogane and Fai D. Flourite. Kurogane, a capable fighter and ninja, has been banished from his homeworld and wishes to return. In contrast, Fai, a magician from Celes, wants to traverse different worlds to avoid his home and past. As the price to cross dimensions, each of the three must sacrifice their most valued possession. For Sakura's sake, Syaoran agrees to give away their relationship as payment to the Dimensional Witch. And with firm determination, Syaoran, Kurogane, and Fai begin journeying through numerous worlds to fight against their ill-fated destinies. [Written by MAL Rewrite]",
+  "story_description": "Tsubasa: RESERVoir CHRoNiCLE was published in English by Del Rey from April 27, 2004 to November 23, 2010. Kodansha Comics USA republished the series in 10 omnibuses from August 19, 2014 to October 18, 2016.",
+  "story_by": "CLAMP",
+  "art_by": "CLAMP",
+  "volumes": 28,
+  "chapters": 233,
+  "published": "May 21, 2003 to Oct 7, 2009",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/272410l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:47:44.091Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb923"
+  },
+  "manga_title": "Naruto",
+  "type": "Manga",
+  "manga_background": "Whenever Naruto Uzumaki proclaims that he will someday become the Hokage—a title bestowed upon the best ninja in the Village Hidden in the Leaves—no one takes him seriously. Since birth, Naruto has been shunned and ridiculed by his fellow villagers. But their contempt isn't because Naruto is loud-mouthed, mischievous, or because of his ineptitude in the ninja arts, but because there is a demon inside him. Prior to Naruto's birth, the powerful and deadly Nine-Tailed Fox attacked the village. In order to stop the rampage, the Fourth Hokage sacrificed his life to seal the demon inside the body of the newborn Naruto. And so when he is assigned to Team 7—along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake—Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village. [Written by MAL Rewrite]",
+  "story_description": "Naruto has sold over 250 million copies worldwide as of 2020, making it the 4th highest grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan's Agency for Cultural Affairs. Numerous databooks, artbooks, novels, and fanbooks on the series have been released. Eight summary volumes featuring unaltered color pages, larger dimensions, and exclusive interviews, covering the first part of the series were released between November 7, 2008 and April 10, 2009. The series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003 to October 6, 2015. In the last four months of 2007, the campaign titled \"Naruto Nation\" was launched, in which three volumes were published each month so that US releases would be closer to Japan's, the same practice was done in February through April of 2009 this time titled \"Generation Ninja.\" A 3-in-1 omnibus edition has also been released since May 3, 2011. A box set containing volumes 1-27 was released on August 6, 2008, another one containing volumes 28-48 on July 7, 2015, and the final box set with volumes 49-72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics/Planet Manga from May 2007 to June 2015, and again as Naruto Gold edition since July 2015.",
+  "story_by": "Kishimoto, Masashi",
+  "art_by": "Kishimoto, Masashi",
+  "volumes": 72,
+  "chapters": 700,
+  "published": "Sep 21, 1999 to Nov 10, 2014",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/249658l.jpg",
+  "likes": 272,
+  "created_at": "2023-01-27T14:47:44.092Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb924"
+  },
+  "manga_title": "Bleach",
+  "type": "Manga",
+  "manga_background": "For as long as he can remember, high school student Ichigo Kurosaki has been able to see the spirits of the dead, but that has not stopped him from leading an ordinary life. One day, Ichigo returns home to find an intruder in his room who introduces herself as Rukia Kuchiki, a Soul Reaper tasked with helping souls pass over. Suddenly, the two are jolted from their conversation when a Hollow—an evil spirit known for consuming souls—attacks. As Ichigo makes a brash attempt to stop the Hollow, Rukia steps in and shields him from a counterattack. Injured and unable to keep fighting, Rukia suggests a risky plan—transfer half of her Soul Reaper powers to Ichigo. He accepts and, to Rukia's surprise, ends up absorbing her powers entirely, allowing him to easily dispatch the Hollow. Now a Soul Reaper himself, Ichigo must take up Rukia's duties of exterminating Hollows and protecting spirits, both living and dead. Along with his friends Orihime Inoue and Yasutora Sado—who later discover spiritual abilities of their own—Ichigo soon learns that the consequences of becoming a Soul Reaper and dealing with the world of spirits are far greater than he ever imagined. [Written by MAL Rewrite]",
+  "story_description": "Bleach has sold over 130 million copies worldwide as of 2022, making it one of the top 20 best selling manga series of all-time; North American sales have also been significant with 1.7 million copies sold in the region. In 2005, the series won the 50th Shogakukan Manga Award in the shounen demographic category. Many adaptations have also been made of the series, with a 2004 television anime series along with four feature length films, numerous video games, spin-off light novels, databooks, and even a musical. The series has been published in English by VIZ Media under the Shonen Jump imprint since July 6, 2004 and in 3-in-1 omnibus edition since June 7, 2011; a hardcover collector's edition for volume one was released by VIZ Media on August 5, 2008, a box set of volumes 1-21 was released on September 16, 2008 as well as volumes 22-48 on July 7, 2015. It has also been published in Portuguese (Brazil) by Panini Comics and Planet Manga since July 2007, and in Spanish by Glénat/EDT since June 2006, publishing 51 volumes before the publisher went defunct, and later was republished by Panini Comics from February 2013 to November 2017.",
+  "story_by": "Kubo, Tite",
+  "art_by": "Kubo, Tite",
+  "volumes": 74,
+  "chapters": 705,
+  "published": "Aug 7, 2001 to Aug 22, 2016",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Award Winning",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/180031l.jpg",
+  "likes": 128,
+  "created_at": "2023-01-27T14:47:44.092Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb925"
+  },
+  "manga_title": "One Piece",
+  "type": "Manga",
+  "manga_background": "Gol D. Roger, a man referred to as the \"Pirate King,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins. Twenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas. [Written by MAL Rewrite]",
+  "story_description": "One Piece is the highest selling manga series of all time, with over 500 million copies in circulation as of 2022. Volume 67 of the series currently holds the record for highest first print run of any manga (including books) of all time in Japan, with 4.05 million in 2012. The series was a finalist for the Tezuka Osamu Cultural Prize three times in a row from 2000 to 2002. In 2012, it won the 41st Japan Cartoonists Association Award Grand Prize, alongside Kimuchi Yokoyama's Neko Darake. VIZ Media has published One Piece in English under the Shonen Jump imprint since January 2, 2003 and in 3-in-1 omnibus editions since December 1, 2009. VIZ Media released three boxed sets for the manga; the first including the first 23 volumes released on November 5, 2013, the second including volumes 24-46 released on November 4, 2014, and the third including volumes 47-70 released on October 4, 2016. The series has also been published in numerous amounts of languages worldwide including; Korean, Malay, Indonesian, Chinese, Thai, Vietnamese, German, French, Italian, Spanish, Portuguese, Swedish, Danish, Norwegian, Finnish, Polish, Turkish, and Russian.",
+  "story_by": "Oda, Eiichiro",
+  "art_by": "Oda, Eiichiro",
+  "volumes": "",
+  "chapters": "",
+  "published": "Jul 22, 1997 to ?",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Publishing",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/253146l.jpg",
+  "likes": 327,
+  "created_at": "2023-01-27T14:47:44.092Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb926"
+  },
+  "manga_title": "Rave",
+  "type": "Manga",
+  "manga_background": "Fifty years ago, the wielders of the sacred Rave stones fought against an onslaught caused by demon stones called Dark Bring. This war resulted in an explosion known as \"Overdrive\"—a blast so powerful that it sent the Dark Bring into a deep slumber and scattered the pieces of Rave across the world. In the present, Haru Glory lives a peaceful life on Garage Island until one day, he catches the creature Plue while fishing. Plue is later recognized by Shiba Roses, an old man who happens to be the original Rave Master. Shiba explains that the Dark Bring has resurfaced, and that to stop it, assembling the scattered parts of Rave is of utmost urgency. However, before Shiba can leave on this mission, he is attacked by a soldier from the evil organization Demon Card, forcing him to transfer the power of Rave to Haru. With the fate of humankind resting on his shoulders, the new Rave Master begins his quest to find the scattered Rave fragments. [Written by MAL Rewrite]",
+  "story_description": "Rave was published in English by Tokyopop as Rave Master for 32 volumes from February 11, 2003 to February 10, 2009, until their license with Kodansha expired. Del Rey later gained the license and published the final three volumes in a single omnibus on May 24, 2011. Kodansha Comics USA digitally published the entire series in single volumes on October 3, 2017. It was also published in Spanish by Norma Editorial from February 2004 to February 2010.",
+  "story_by": "Mashima, Hiro",
+  "art_by": "Mashima, Hiro",
+  "volumes": 35,
+  "chapters": 298,
+  "published": "Jul 7, 1999 to Jul 27, 2005",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/255624l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.093Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb927"
+  },
+  "manga_title": "Mahou Sensei Negima!",
+  "type": "Manga",
+  "manga_background": "Negi Springfield, a 10-year-old wizard who recently graduated from Merdiana Magic Academy in Wales, hopes to achieve two things—to find his missing father, who was once known as the Thousand Master, and to become a Magister Magi, someone who helps the everyday world through magic. To reach his latter goal, he is assigned one last task: to teach English at a middle school in Japan. Much to his surprise and dismay, he not only discovers that his homeroom class consists of 31 girls, but also ends up revealing his true identity as a magician to Asuna Kagurazaka, one of his new students. Negi must now negotiate with the girl and face his most difficult challenge yet—to keep his identity a secret as he tackles magical threats both from within and outside of Mahora Academy, all the while keeping a watchful eye out for his lost father. [Written by MAL Rewrite]",
+  "story_description": "Mahou Sensei Negima! was published in English as Negima! by Del Rey from April 27, 2004 up until volume 27, released on July 27, 2010. Kodansha Comics USA picked up the license and published volumes 28-38 from October 2, 2012 to April 23, 2013, as well as republishing the previous volumes in nine omnibus volumes from June 14, 2011 to February 11, 2014.",
+  "story_by": "Akamatsu, Ken",
+  "art_by": "Akamatsu, Ken",
+  "volumes": 38,
+  "chapters": 355,
+  "published": "Feb 26, 2003 to Mar 14, 2012",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/259286l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.093Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb928"
+  },
+  "manga_title": "Love Hina",
+  "type": "Manga",
+  "manga_background": "It is said that if a couple gets into the University of Tokyo together, they will live happily ever after. However, for Keitarou Urashima, UTokyo is a distant dream. After failing the entrance exams twice already, he decides to stay at his grandmother's inn in Tokyo in order to prepare for his third attempt. He is, therefore, surprised when he finds out that not only has his grandmother gone on a long vacation, but the inn has also become the Hinata House, an all-girls dormitory! Unfortunately for Keitarou, a series of misunderstandings during his first visit leave him with five untrusting tenants. But when Haruka Urashima, his aunt who works at the dorm, brings up that he is supposedly a UTokyo student, the girls' impressions of him quickly change, and they reluctantly allow him to stay. Feeling guilty about the lie, he slowly gets to know his new neighbors: the cute yet violent Naru Narusegawa, the cheeky and opportunistic Mitsune Konno, the soft-spoken Shinobu Maehara, the straight-laced Motoko Aoyama, and the mischievous Kaolla Su. Thus continues the unpopular Keitarou's difficult journey to get into UTokyo, all for the chance to fulfill his childhood promise to the only girl who has ever shown any interest in him and maybe, just maybe, meet her again... [Written by MAL Rewrite]",
+  "story_description": "Love Hina won the 2001 Kodansha Manga Award for best shounen title. It was also chosen as Best Manga, USA Release at the 2002 and 2004 Anime Expo conventions, while the pop culture website ICv2 voted the title as the 2002 Anime Product of the Year. In 2003, it was among the top ten graphic novels on Nielsen BookScan's list, and one of the first graphic novels to ever appear in the general trade paperback list. The third volume of Love Hina's omnibus edition made the 2012 NY Times Manga bestseller list.",
+  "story_by": "Akamatsu, Ken",
+  "art_by": "Akamatsu, Ken",
+  "volumes": 14,
+  "chapters": 120,
+  "published": "Oct 21, 1998 to Oct 31, 2001",
+  "genres": [
+    "Award Winning",
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/259287l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.093Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb92b"
+  },
+  "manga_title": "GetBackers",
+  "type": "Manga",
+  "manga_background": "Blonde, hip, pragmatic and cool, Ginji Amano has the power to generate currents with his body like an electric eel. Brunette, equally hip, bespectacled and rambunctious, Ban Mido has the mystically mysterious 'Evil Eye,' the power to create illusions in the minds of his foes. Together, they are the GetBackers, the best retrieval team in the world. They can get back anything taken from clients, and their success rate is (almost) 100%! However, first they have to get some clients—and soon—or this spry detective duo will starve on the streets! (Source: TokyoPop)",
+  "story_description": "GetBackers was published in English by Tokyopop for 28 volumes from February 10, 2004 to March 10, 2009 until their license with Kodansha expired.",
+  "story_by": "Kibayashi, Shin",
+  "art_by": "Ayamine, Rando",
+  "volumes": 39,
+  "chapters": 344,
+  "published": "Mar 24, 1999 to Feb 21, 2007",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/169369l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.094Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb92c"
+  },
+  "manga_title": "Hikaru no Go",
+  "type": "Manga",
+  "manga_background": "When Hikaru Shindou discovers an old go board in his grandfather's attic, he is greeted by the spirit of an ancient go master, Fujiwara no Sai. Sai spent his life teaching the techniques of the board game to an emperor during the Heian era, and now in his ghostly state, he is eager to share his passion with the unsuspecting Hikaru. The only problem is that Hikaru is not all that interested in board games. But Sai is not easily dissuaded. Pressured by Sai's unrelenting desire to pursue something he refers to as the \"Divine Move,\" Hikaru begrudgingly consents to playing the game, executing moves as dictated by Sai. But slowly, intrigued by the dedication of his peers, he begins to learn the basics of the game. As Hikaru enters into the world of go, guided by his intangible tutor and inspired by his rival, Akira Touya, he cannot help but be drawn into the complex game as he grows determined to prove his own abilities. In a coming-of-age story centering around an ancient board game, Hikaru no Go tells the story of a boy maturing through the pursuit of his newfound passion. [Written by MAL Rewrite]",
+  "story_description": "Hikaru no Go won the 45th Shogakukan Manga Award for the shounen category in 2000. The series was published in English by VIZ Media under the Shonen Jump imprint from May 19, 2004 to May 3, 2011 and also digitally from March 19, 2012 to January 8, 2013.",
+  "story_by": "Obata, Takeshi",
+  "art_by": "Hotta, Yumi",
+  "volumes": 23,
+  "chapters": 198,
+  "published": "Dec 8, 1998 to Jul 14, 2003",
+  "genres": [
+    "Award Winning",
+    "Comedy",
+    "Drama",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/170574l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:47:44.094Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb92d"
+  },
+  "manga_title": "Death Note",
+  "type": "Manga",
+  "manga_background": "Ryuk, a god of death, drops his Death Note into the human world for personal pleasure. In Japan, prodigious high school student Light Yagami stumbles upon it. Inside the notebook, he finds a chilling message: those whose names are written in it shall die. Its nonsensical nature amuses Light; but when he tests its power by writing the name of a criminal in it, they suddenly meet their demise. Realizing the Death Note's vast potential, Light commences a series of nefarious murders under the pseudonym \"Kira,\" vowing to cleanse the world of corrupt individuals and create a perfect society where crime ceases to exist. However, the police quickly catch on, and they enlist the help of L—a mastermind detective—to uncover the culprit. Death Note tells the thrilling tale of Light and L as they clash in a great battle-of-minds, one that will determine the future of the world. [Written by MAL Rewrite]",
+  "story_description": "Death Note has inspired three live-action films, a TV drama series as well as a stage musical. The series has also inspired numerous copycat crimes outside of Japan. The manga was published in English by VIZ Media under the Shonen Jump Advanced imprint from October 10, 2005 and July 3, 2007 and again in 2-in-1 omnibuses (subtitled Black edition) from December 28, 2010 to November 1, 2011. There have been several more rereleases of the series: a special hardcover edition of the first volume on September 16, 2008, a complete box set on October 7, 2008, which included a guidebook titled Death Note 13: How to Read, and a complete omnibus on September 5, 2017. It was also published in Italy by Planet Manga from November 2006 to September 2008; in Brazil by JBC from June 2007 to August 2008, and again in 2-in-1 edition (Black Edition) from June 2013 to December 2013; in Argentina by LARP Editores from May 20, 2009 to April 2012; and in Spanish by Glénat España from June 30, 2006 to Septmber 30, 2007. Norma Editorial republished the series in Spanish as the Black edition from April 11 to September 27, 2013.",
+  "story_by": "Obata, Takeshi",
+  "art_by": "Ohba, Tsugumi",
+  "volumes": 12,
+  "chapters": 108,
+  "published": "Dec 1, 2003 to May 15, 2006",
+  "genres": [
+    "Supernatural",
+    "Suspense"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/258245l.jpg",
+  "likes": 32,
+  "created_at": "2023-01-27T14:47:44.095Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb92e"
+  },
+  "manga_title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+  "type": "Manga",
+  "manga_background": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money. One wandering samurai, Kenshin Himura, still works to make sure the values he fought for are worth the lives spent to bring about the new era. Once known as Hitokiri Battousai, he was feared as the most ruthless killer of all the revolutionaries. Now haunted by guilt, Kenshin has sworn never to kill again in atonement for the lives he took, and he may never know peace until killing is a thing of the past. Now in the 11th year of Meiji, Kenshin stumbles upon Kaoru Kamiya, owner and head instructor of a small dojo being threatened to close its doors. The police force is powerless to stop the string of murders done in the name of her dojo by a man claiming to be the famous Battousai. Kenshin's wanderings pause for now as he joins Kaoru to clear both their names. But how long can he stay before his past catches up to him? [Written by MAL Rewrite] Included one-shot: Volume 28: Meteor Strike",
+  "story_description": "Rurouni Kenshin: Meiji Kenkaku Romantan was published in English as Rurouni Kenshin by VIZ Media under the Shonen Jump imprint from December 23, 2003 to July 5, 2006 and again in 3-in-1 omnibus edition under Shonen Jump VIZBIG imprint from January 29, 2008 to March 16, 2010. The publisher has been releasing the series in 3-in-1 omnibuses since January 3, 2017.",
+  "story_by": "Watsuki, Nobuhiro",
+  "art_by": "Watsuki, Nobuhiro",
+  "volumes": 28,
+  "chapters": 259,
+  "published": "Apr 12, 1994 to Sep 21, 1999",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/127583l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.095Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb931"
+  },
+  "manga_title": "Fullmetal Alchemist",
+  "type": "Manga",
+  "manga_background": "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor. Years later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine. [Written by MAL Rewrite]",
+  "story_description": "Hagane no Renkinjutsushi won the 49th Shogakukan Manga Award for the shounen demographic in 2004. Hiromu Arakawa also won the 15th Tezuka Osamu Cultural Prize in the New Artist Prize category for the series in 2011. As of 2015, over 64 million copies of the series have been sold worldwide, making it one of Square Enix's most successful publications, according to Nielsen Bookscan. A live-action film is in development by Warner Bros. Japan and is scheduled for release in Winter 2017. The series was published in English as Fullmetal Alchemist by VIZ Media from May 3, 2005 to December 20, 2011, and in eBook format by Yen Press on April 15, 2014. A 3-in-1 omnibus edition was released by VIZ from June 7, 2011 to November 11, 2014 as well as a complete box set in November 1, 2011 (which included the novel Fullmetal Alchemist: The Ties That Bind). The manga was also published in Italian by Panini Comics under the Planet Manga imprint from July 13, 2006 to September 3, 2011, in Polish by J.P. Fantastica from January 2006 to to April 2012, in Brazilian Portuguese by Jbc from February 2007 to April 2011 and in Spanish by Ivrea Argentina starting December 12, 2016.",
+  "story_by": "Arakawa, Hiromu",
+  "art_by": "Arakawa, Hiromu",
+  "volumes": 27,
+  "chapters": 116,
+  "published": "Jul 12, 2001 to Sep 11, 2010",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Award Winning",
+    "Drama",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Gangan",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/243675l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:47:44.096Z"
+},{
+  "_id": {
+    "$oid": "63d3e8538b07a8630c5fb932"
+  },
+  "manga_title": "Hunter x Hunter",
+  "type": "Manga",
+  "manga_background": "\"Secret treasure hoards, undiscovered wealth... mystical places, unexplored frontiers... 'The mysterious unknown.' There's magic in such words for those captivated by its spell. They are called 'Hunters'!\" Gon Freecss wants to become a Hunter so he can find his father, a man who abandoned him to pursue a life of adventure. But it's not that simple: only one in one hundred thousand can pass the Hunter Exam, and that is just the first obstacle on his journey. During the Hunter Exam, Gon befriends many other potential Hunters, such as the mysterious Killua; the revenge-driven Kurapika; and Leorio, who aims to become a doctor. There's a world of adventure and peril awaiting, and those who embrace it with open arms can become the greatest Hunters of them all! [Written by MAL Rewrite]",
+  "story_description": "Hunter x Hunter has been published in English by VIZ Media under the Shonen Jump Advanced imprint since April 5, 2005; in Brazilian Portuguese by Jbc since January 2008; in Spanish by Panini Comics since October 2012; and in Italian by Panini Comics. The series has been serialized irregularly since 2006 due to Yoshihiro Togashi's health problems.",
+  "story_by": "Togashi, Yoshihiro",
+  "art_by": "Togashi, Yoshihiro",
+  "volumes": "",
+  "chapters": "",
+  "published": "Mar 3, 1998 to ?",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Publishing",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/253119l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:47:44.096Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb938"
+  },
+  "manga_title": "666 Satan",
+  "type": "Manga",
+  "manga_background": "In the not too distant future, mankind battles over O-Parts, relics from an ancient civilization. It takes a special kind of person to unlock the full potential of these remnants from the past, and a unique breed of humans known as O.P.T.s (or O-Parts Tacticians) become a force to be reckoned with. Unfortunately, O-Parts can be used for good or evil purposes. Jio is a young boy with a tragic past who only trusts one thing in the world: money. Little does he suspect that he is actually a very powerful O.P.T., and inside him sleeps a demon of incredible ferocity. He meets up with a girl named Ruby, and together they decide to embark on a dangerous quest to discover as many O-Parts as they can. Will Jio help Ruby realize her dream of becoming a world famous treasure hunter? More importantly, will Ruby help Jio realize his dream of--world domination?! (Source: Viz Media) Included one-shots: Volume 6: Trigger",
+  "story_description": "666 Satan was published in English as O-Parts Hunter by VIZ Media from December 12, 2006 to December 8, 2009; in Italian by J-POP from June 6, 2008 to July 25, 2010; and in Spanish by EDT/Glénat from July 2009 to June 2012.",
+  "story_by": "Kishimoto, Seishi",
+  "art_by": "Kishimoto, Seishi",
+  "volumes": 19,
+  "chapters": 78,
+  "published": "Aug 11, 2001 to Dec 12, 2007",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Gangan",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/267783l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.964Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb93f"
+  },
+  "manga_title": "Zombie Powder.",
+  "type": "Manga",
+  "manga_background": "Gamma Akutabi is a mysterious figure, drifting through the western desert with a giant sword slung over his shoulder and a right arm made completely of metal spreading up and over his cheek. He searches endlessly for a mythical set of 12 Rings of the Dead—jewelry said to give life to the possessor. These rings are hunted by mercenaries and outlaws alike for a wide variety of reasons, but Gamma seeks to grant himself eternal life by possessing all 12. Gamma comes across teenager John Elwood Shepherd in his travels, who decides to follow Gamma after a brutal fight claims the life of his sister. Elwood seeks to use the Rings of the Dead to bring his sister back to life and quickly develops an admiration for Gamma, whose combat prowess saves Elwood's life time after time. Along the way, the two travelers encounter new friends and old allies from Gamma's past, working with them to defeat enemies who seek to use the Rings of the Dead for their own nefarious purposes. [Written by MAL Rewrite] Included one-shots: Volume 2: Ultra Unholy Hearted Machine Volume 3: Kokumashi Urara (Rune Master Urara) Volume 4: Bad Shield United",
+  "story_description": "Zombie Powder. was published in English by VIZ Media under the Shonen Jump imprint from September 5, 2006 to June 5, 2007.",
+  "story_by": "Kubo, Tite",
+  "art_by": "Kubo, Tite",
+  "volumes": 4,
+  "chapters": 30,
+  "published": "Jul 19, 1999 to Feb 15, 2000",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/180035l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.966Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb940"
+  },
+  "manga_title": "Black Cat",
+  "type": "Manga",
+  "manga_background": "Train Heartnet is an amicable bounty hunter—known as a \"Sweeper\"—with a talent for sharpshooting. Working alongside his cool-headed partner Sven Vollfied, they hunt down wanted criminals. Unfortunately, however, despite their efforts, the dynamic duo always seems to be short on money, which forces them to accept a job from the beautiful Rinslet Walker, a sly thief for hire, and a mysterious girl named Eve. However, the motley crew soon discovers a terrible plot to revolutionize the world, and the mastermind is someone Train knows and loathes with a passion. As the plan is set into motion, it is soon made clear that behind the carefree sharpshooter's smiling face lies a tragic past and an insatiable desire for revenge. [Written by MAL Rewrite] Included one-shot: Volume 8: Stray Cat (pilot)",
+  "story_description": "Black Cat was published in English by VIZ Media under the Shonen Jump imprint from March 7, 2006 to May 5, 2009 and in Italian by Star Comics from February 3, 2004 to April 2, 2007.",
+  "story_by": "Yabuki, Kentarou",
+  "art_by": "Yabuki, Kentarou",
+  "volumes": 20,
+  "chapters": 187,
+  "published": "Jul 11, 2000 to Jun 14, 2004",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/186071l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.966Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb941"
+  },
+  "manga_title": "Busou Renkin",
+  "type": "Manga",
+  "manga_background": "Busou Renkin is the story of the teenager Kazuki Mutou, who dies trying to save a girl who was being attacked by an eerie monster. The next morning, however, Kazuki is left wondering whether it was all a dream. Lo and behold, the girl, the monster, and his death are all real! The girl, Tokiko Tsumura, was actually trying to slay the homunculus (a beast that can take the form of humans, but whose main source of food is people), but Kazuki got in her way. To revive Kazuki, Tokiko replaces his heart with a \"kakugane,\" an alchemic device that allows him to summon a lance with which to fight the monsters. It turns out that Tokiko is a member of Renkin Kenshi (Alchemist Soldiers)—an organization sworn to protect the world from the diabolical creatures. Soon, Kazuki joins Tokiko in her quest to terminate the sinister being that creates and controls the homunculus. (Source: VIZ Medai) Included one-shot: Volume 10: Embalming: Dead Body and Bride",
+  "story_description": "This manga was published in English by VIZ Media under Shonen Jump Advanced imprint from August 1, 2006 to February 5, 2008.",
+  "story_by": "Watsuki, Nobuhiro",
+  "art_by": "Watsuki, Nobuhiro",
+  "volumes": 10,
+  "chapters": 83,
+  "published": "Jun 23, 2003 to Apr 25, 2006",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/149583l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.966Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb942"
+  },
+  "manga_title": "Dragon Ball",
+  "type": "Manga",
+  "manga_background": "Bulma, a headstrong 16-year-old girl, is on a quest to find the mythical Dragon Balls—seven scattered magic orbs that grant the finder a single wish. She has but one desire in mind: a perfect boyfriend. On her journey, Bulma stumbles upon Gokuu Son, a powerful orphan who has only ever known one human besides her. Gokuu possesses one of the Dragon Balls, it being a memento from his late grandfather. In exchange for it, Bulma invites Gokuu to be a companion in her travels. By Bulma's side, Gokuu discovers a world completely alien to him. Powerful enemies embark on their own pursuits of the Dragon Balls, pushing Gokuu beyond his limits in order to protect Bulma and their growing circle of allies. However, Gokuu has secrets unbeknownst to even himself; the incredible strength within him stems from a mysterious source, one that threatens the many people he grows to hold dear. As his prowess in martial arts flourishes, Gokuu attracts stronger opponents whose villainous plans could collapse beneath his might. He undertakes the endless venture of combat training to defend his loved ones and the fate of the planet itself. [Written by MAL Rewrite]",
+  "story_description": "Dragon Ball has become one of the most successful manga series of all time, with over 230 million copies sold worldwide with 157 million in Japan alone, making it the third all-time best selling manga as of 2015, and the #1 manga series not currently publishing. The series is often credited for the \"Golden Age of Jump\" where the magazine's circulation was at its highest. VIZ Media serialized the manga in English from March 1998 to March 2005 in monthly comic book anthology format; and was later collected into traditional tankobon format volumes from March 12, 2003 to June 6, 2006. To closer follow the English anime localization, the series is split; in which volumes 17-42 are titled Dragon Ball Z and renumbered as volumes 1-26. Other releases by VIZ include the large format VIZ Big Edition, kanzenban cover based 3-in-1 Edition, and a Full Color Edition of chapters 195-245. Other English publishers include Madman Entertainment in Australia/New Zealand, and the now defunct Gollancz Manga (distribution rights transferred to VIZ) in the United Kingdom. The series is also published in Spanish by Planet DeAgostini Cómics and in French by Glénat Editions.",
+  "story_by": "Toriyama, Akira",
+  "art_by": "Toriyama, Akira",
+  "volumes": 42,
+  "chapters": 520,
+  "published": "Nov 20, 1984 to May 23, 1995",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/267793l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:49:24.966Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb943"
+  },
+  "manga_title": "Eyeshield 21",
+  "type": "Manga",
+  "manga_background": "Timid, diminutive, and frequently the target of bullies, Sena Kobayakawa has just enrolled at Deimon Private High School. When he angers a group of delinquents by refusing to act as their errand boy, he makes an incredibly speedy getaway, an ability he has developed through years of running from his tormentors. Youichi Hiruma—the demonic captain of the Deimon Devil Bats football team—happens to be nearby, and seeing Sena's \"golden legs\" at work, forcibly recruits him as a running back despite Sena's desire to be team manager instead. Made to don the number 21 jersey and a special helmet to hide his identity as a player, Sena becomes \"Eyeshield 21,\" the team's closely guarded secret weapon. Soon he realizes his love for the sport, and aims to help the Devil Bats reach the Christmas Bowl, the high school football championship. [Written by MAL Rewrite]",
+  "story_description": "Eyeshield 21 has sold more than 20 million copies in Japan and also has games produced by Konami and Nintendo. The series was published in English by VIZ Media under Shonen Jump Advanced imprint from April 5, 2005 to October 4, 2011 and has been licensed in France, Hong Kong, Indonesia, Italy, Taiwan, and South Korea.",
+  "story_by": "Inagaki, Riichiro",
+  "art_by": "Murata, Yusuke",
+  "volumes": 37,
+  "chapters": 333,
+  "published": "Jul 23, 2002 to Jun 15, 2009",
+  "genres": [
+    "Sports"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/165586l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:49:24.966Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb944"
+  },
+  "manga_title": "Gintama",
+  "type": "Manga",
+  "manga_background": "During the Edo period, Japan is suddenly invaded by alien creatures known as the \"Amanto.\" Despite the samurai's attempts to combat the extraterrestrial menace, the Shogun soon realizes that their efforts are futile and decides to surrender. This marks the beginning of an uneasy agreement between the Shogunate and Amanto, one that results in a countrywide sword ban and the disappearance of the samurai spirit. However, there exists one eccentric individual who wields a wooden sword and refuses to let his samurai status die. Now that his kind are no longer needed, Gintoki Sakata performs various odd jobs around town in order to make ends meet. Joined by his self-proclaimed disciple Shinpachi Shimura, the fearsome alien Kagura, and a giant dog named Sadaharu, they run the business known as Yorozuya, often getting caught up in all sorts of crazy and hilarious shenanigans. [Written by MAL Rewrite] Included one-shots: Volume 1: Dandelion Volume 2: Shirokuro (Black and White) Volume 24: 13 Volume 38: Bankara-san ga Tooru",
+  "story_description": "As of February 2018, publisher Shueisha revealed that Gintama has more than 55 million copies in print in Japan. The series was nominated for Best Manga under the comedy category in 2008 at the Society for the Promotion of Japanese Animation. VIZ Media published the manga in English as Gin Tama under the Shonen Jump Advanced imprint, with 23 volumes published from July 3, 2007 to August 2, 2011 before release was discontinued. It was also published in Spanish by Glénat, with 16 volumes published from October 2007 to May 2010; and in Italian by Planeta DeAgostini from July 4, 2008 to January 9, 2010 before release was discontinued. Star Comics picked up the license and re-released volume 1 on April 25, 2015.",
+  "story_by": "Sorachi, Hideaki",
+  "art_by": "Sorachi, Hideaki",
+  "volumes": 77,
+  "chapters": 709,
+  "published": "Dec 8, 2003 to Jun 20, 2019",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/267795l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb945"
+  },
+  "manga_title": "Ichigo 100%",
+  "type": "Manga",
+  "manga_background": "Junpei Manaka sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties...in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams! (Source: Viz)",
+  "story_description": "Ichigo 100% was published in English as Strawberry 100% by VIZ Media under the Shonen Jump Advanced imprint from July 3, 2007 to October 5, 2010; it was dropped after volume 14. The series was also published in Brazilian Portuguese as 100% Morango by Panini Comics under the Planet Manga imprint from April 2010 to April 2013.",
+  "story_by": "Kawashita, Mizuki",
+  "art_by": "Kawashita, Mizuki",
+  "volumes": 19,
+  "chapters": 167,
+  "published": "Feb 19, 2002 to Aug 1, 2005",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/259714l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb946"
+  },
+  "manga_title": "Kannade",
+  "type": "Manga",
+  "manga_background": "Akito Hayama is the infamous God Hand, an art thief who steals only masterpieces. But these arn't your ordinary art pieces, they're actually copies made by Akito's missing mother. Akito is caught by an underground art broker and consequently learns the reason for the disappearance of his mother. In a attempt to save himself, a new found ability 'Kannade' emerges within Akito, as well as the quest to find certain art pieces by Akito's mother and what Kannade's fate really is. Included one-shot: Volume 2: Kannade (pilot), God Hand",
+  "story_description": null,
+  "story_by": "Horibe, Takeo",
+  "art_by": "Horibe, Takeo",
+  "volumes": 2,
+  "chapters": 15,
+  "published": "Sep 22, 2003 to Dec 15, 2003",
+  "genres": [
+    "Action",
+    "Mystery"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/267796l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb947"
+  },
+  "manga_title": "Katekyo Hitman Reborn!",
+  "type": "Manga",
+  "manga_background": "The life of Tsunayoshi \"No-Good Tsuna\" Sawada is a complete wreck. Terrible grades, horrible fitness, and a non-existent social life means he has no reason to attend school, especially after discovering that his crush, Kyouko Sasagawa, is already seeing someone. Unbeknownst to him however, the blood of Giotto, the great Vongola the First, runs through his veins. Enter home tutor Reborn, an infant who claims to be the world's greatest hitman. Under orders from Vongola the Ninth, Reborn has come to train Tsuna to become a worthy successor to the famous Vongola Famiglia name. Tsuna, however, refuses, and claims that he will never become a mafia boss. How will the world's greatest hitman react to such opposition? Will he force Tsuna to adhere? Or will he use this unwillingness to his advantage? This is a story of a reluctant successor as he takes on the responsibilities of becoming the underworld's next ruling mafia leader, with the help of his friends and a one-of-a-kind home tutor. [Written by MAL Rewrite]",
+  "story_description": "Katekyo Hitman Reborn! was published in English as Reborn! by VIZ Media under the Shonen Jump Advanced imprint. 16 volumes were published from October 3, 2006 to July 6, 2010 before release was discontinued. It was also published in Brazilian Portuguese by Panini Comics/Planet Manga since February 2013.",
+  "story_by": "Amano, Akira",
+  "art_by": "Amano, Akira",
+  "volumes": 42,
+  "chapters": 411,
+  "published": "May 24, 2004 to Nov 12, 2012",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/253085l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb948"
+  },
+  "manga_title": "Pretty Face",
+  "type": "Manga",
+  "manga_background": "Randou Masashi is a brash karate star who strikes fear in everyone around him. But despite his intimidating presence, he is secretly in love with the sweet and beautiful Rina Kurimi. Unfortunately, Randou is involved in a horrific bus accident, which leaves him comatose and with a disfigured face. A year later, he awakes to discover something utterly shocking—his face now resembles Rina's! Randou learns that he has been under the care of a surgeon named Jun Manabe, who reconstructed Randou's face based on a picture he had of Rina. Moreover, Randou is presumed dead, and his parents have moved away as a result. Distraught, Randou crosses paths with Rina and is mistaken for her twin sister Yuna, who fled from her house two years ago. Although Randou initially wished to restore his face, seeing Rina elated makes him reconsider his decision. However, a boy disguising himself as a girl is as absurd as it sounds, and being surrounded by troublesome individuals only makes it more difficult. Nevertheless, Randou is adamant about concealing his identity until he finds the real Yuna. [Written by MAL Rewrite]",
+  "story_description": "Pretty Face was published in English by VIZ Media under the Shonen Jump imprint in print from August 7, 2007 to June 3, 2008, and digitally from June 11, 2013 to September 24, 2013.",
+  "story_by": "Kano, Yasuhiro",
+  "art_by": "Kano, Yasuhiro",
+  "volumes": 6,
+  "chapters": 53,
+  "published": "May 14, 2002 to Jun 9, 2003",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/123699l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb949"
+  },
+  "manga_title": "Tennis no Ouji-sama",
+  "type": "Manga",
+  "manga_background": "Seishun Academy is home to one of the best middle school tennis teams in all of Japan. Freshman tennis prodigy Ryouma Echizen enrolls in the prestigious institution with his eyes set on claiming a regular position on the Boys' Tennis Team. As the son of legendary tennis player Samurai Nanjirou, Ryouma is sick of living in his shadow and wishes to surpass him someday. He is confident in his skills and has the cocky attitude to match. His teammates, however, are reluctant to accept him into their starting lineup, as he hasn't proven himself worthy of the spot. Seishun's ultimate goal is to make it to the National Tournament by the end of the year, but they first have to make it through the Kanto Regionals to even qualify for a spot in it. With their new \"super rookie\" on the team, Seishun is ready to take on anything that comes their way. With a varied assortment of rivals and opponents that can threaten their chance at the title, the Seishun team needs to give it their all in order to rise to the top. [Written by MAL Rewrite] Included one-shot: Volume 5: Tennis no Ouji-sama (pilot)",
+  "story_description": "Tennis no Ouji-sama serialized in the Weekly Shounen Jump from July 1999 to March 2008. The series was put on hiatus in July 2006 after the writer, Takeshi Konomi, was injured in an accident; publication resumed in September 2006. In February 2004, Viz Media announced they had acquired the series, and released the manga in English from April 21, 2004 to July 5, 2011. The manga has received multiple media adaptations. Since the Golden Week of 2003, Marvelous Entertainment has produced a series of musicals that are shown bi-annually, with each musical adapting one arc of the manga storyline. A live adaptation film was released in Japan on May 13, 2006, covering the storyline from when Ryoma arrives in Japan to the match against Hyotei Academy. Three Chinese dramas have been produced. Due to localization, the dramas feature different characters and cultural themes, but the story and characters' portrayal remain similar to the manga. A variety of video games based on the series, mostly tennis games or dating simulators, have been released in Japan across multiple consoles. A half-hour weekly radio show was also produced, featuring over 300 music CDs along with a large range of merchandise.",
+  "story_by": "Konomi, Takeshi",
+  "art_by": "Konomi, Takeshi",
+  "volumes": 42,
+  "chapters": 382,
+  "published": "Jul 6, 1999 to Mar 3, 2008",
+  "genres": [
+    "Sports"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/153238l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.967Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb94a"
+  },
+  "manga_title": "Shaman King",
+  "type": "Manga",
+  "manga_background": "Shamans are extraordinary individuals with the ability to communicate with ghosts, spirits, and gods, which are invisible to ordinary people. The Shaman Fight—a prestigious tournament pitting shamans from all over the world against each other—is held every five hundred years, where the winner is crowned Shaman King. This title allows the current incumbent to call upon the Great Spirit and shape the world as they see fit. Finding himself late for class one night, Manta Oyamada, an ordinary middle school student, decides to take a shortcut through the local cemetery. Noticing him, a lone boy sitting on a gravestone invites Manta to stargaze with \"them.\" Realizing that \"them\" refers to the boy and his ghostly friends, Manta flees in terror. Later, the boy introduces himself as You Asakura, a Shaman-in-training, and demonstrates his powers by teaming up with the ghost of six-hundred-year-old samurai Amidamaru to save Manta from a group of thugs. You befriends Manta due to his ability to see spirits, and with the help of Amidamaru, they set out to accomplish You's goal of becoming the next Shaman King. [Written by MAL Rewrite] Note: This entry is for the original printing of Shaman King. Please see Shaman King (Kanzenban Edition) for the chapters not included in this edition.",
+  "story_description": "Shaman King was published in English by VIZ Media under the Shonen Jump imprint from August 6, 2003 to January 4, 2011.",
+  "story_by": "Takei, Hiroyuki",
+  "art_by": "Takei, Hiroyuki",
+  "volumes": 32,
+  "chapters": 288,
+  "published": "Jun 30, 1998 to Aug 30, 2004",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/255376l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:49:24.968Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb94b"
+  },
+  "manga_title": "Slam Dunk",
+  "type": "Manga",
+  "manga_background": "Hanamichi Sakuragi, a tall, boisterous teenager with flame-red hair and physical strength beyond his years, is eager to put an end to his rejection streak of 50 and finally score a girlfriend as he begins his first year of Shohoku High. However, his reputation for delinquency and destructiveness precedes him, and most of his fellow students subsequently avoid him like the plague. As his first day of school ends, he is left with two strong thoughts: \"I hate basketball\" and \"I need a girlfriend.\" Haruko Akagi, ignorant of Hanamichi's history of misbehavior, notices his immense height and unwittingly approaches him, asking whether or not he likes basketball. Overcome by the fact that a girl is speaking to him, the red-haired giant blurts out a yes despite his true feelings. At the gym, Haruko asks if he can do a slam dunk. Though a complete novice, Hanamachi palms the ball and makes the leap...but overshoots, slamming his head into the backboard. Amazed by his near-inhuman physical abilities, Haruko quickly notifies the school's basketball captain of his feat. With this, Hanamichi is unexpectedly thrust into a world of competition for a girl he barely knows, but he soon discovers that there is perhaps more to basketball than he once thought. [Written by MAL Rewrite]",
+  "story_description": "Slam Dunk was awarded the 40th Shogakukan Manga Award for best shounen manga in 1994. In a 2006 poll for the 10th Japan Media Arts Festival, the series was voted by Japanese fans as the #1 manga series of all time. With over 120 million copies sold as of 2012, it is one of the most successful manga series to date. Its wide success led to a large increase in the popularity of basketball in Japanese youth. In 2010, Takehiko Inoue received special commendations from the Japan Basketball Association for popularizing basketball in Japan. The series was published in English by Gutsoon! Entertainment under the Raijin Comics Imprint for five volumes from July 2, 2003 to May 5, 2004. After Gutsoon's shutdown, publishing rights to Slam Dunk were purchased by VIZ Media who then republished the series under the Shonen Jump imprint from September 2, 2008 to December 3, 2013. It was published in Spanish by Ivrea España from February 2003 to September 2005 and republished in Kanzenban from January 2010 to May 2016.",
+  "story_by": "Inoue, Takehiko",
+  "art_by": "Inoue, Takehiko",
+  "volumes": 31,
+  "chapters": 276,
+  "published": "Sep 18, 1990 to Jun 4, 1996",
+  "genres": [
+    "Award Winning",
+    "Sports"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/258749l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.968Z"
+},{
+  "_id": {
+    "$oid": "63d3e85c8b07a8630c5fb94c"
+  },
+  "manga_title": "Whistle!",
+  "type": "Manga",
+  "manga_background": "Everybody has a dream, and for Shou Kazamatsuri, that dream is simple: he wants to be the best soccer player he can possibly be. He's the spirited leader of the Josui Junior High team and everyone looks up to him. In turn, he tries to keep the team together at any cost! (Source: VIZ Media)",
+  "story_description": "Whistle! was published in English by VIZ Media under the Shonen Jump imprint from October 12, 2004 to January 5, 2010.",
+  "story_by": "Higuchi, Daisuke",
+  "art_by": "Higuchi, Daisuke",
+  "volumes": 24,
+  "chapters": 216,
+  "published": "Feb 24, 1998 to Oct 8, 2002",
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/267799l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:49:24.968Z"
+},{
+  "_id": {
+    "$oid": "63d3e8688b07a8630c5fb94d"
+  },
+  "manga_title": "Yuu☆Yuu☆Hakusho",
+  "type": "Manga",
+  "manga_background": "Fourteen-year-old thug Yuusuke Urameshi spends his days skipping school and causing trouble for the adults in his life. Yuusuke regularly engages in street brawls against rival Kazuma Kuwabara and ridicules his childhood friend Keiko Yukimura. Filled with self-loathing and the burden of an alcoholic mother, Yuusuke sacrifices it all in a split-second decision—he tackles a small child out of the way of an oncoming car, losing his life in the process. Spirit guide Botan intervenes, allowing Yuusuke to see how the people in his life react to his death; he is moved by the emotional ruin his loss causes his mother, Keiko, and even Kuwabara. Additionally, due to his death's heroic nature, he receives an opportunity to return to life from the Spirit World ruler's son, Koenma. Koenma hires Yuusuke as a \"Spirit Detective\" and tasks him with solving a series of increasingly challenging paranormal mysteries. Battling and befriending demons such as the beautiful Kurama and hostile Hiei, Yuusuke further develops and utilizes his skills as a fighter. But as dark forces move in the Underworld, Yuusuke struggles alongside his companions to defend everything he took for granted. [Written by MAL Rewrite]",
+  "story_description": "Yuu☆Yuu☆Hakusho was awarded the 39th Shogakukan Manga Award for best shounen manga in 1993. The series was published in English as Yu Yu Hakusho by VIZ Media under the Shonen Jump imprint from August 18, 2003 to March 2, 2010; in Spanish by Glénat; and in Brazilian Portuguese by Jbc from November 2002 to November 2004—and again in a special edition from October 2014 to April 2016.",
+  "story_by": "Togashi, Yoshihiro",
+  "art_by": "Togashi, Yoshihiro",
+  "volumes": 19,
+  "chapters": 176,
+  "published": "Nov 20, 1990 to Jul 12, 1994",
+  "genres": [
+    "Action",
+    "Award Winning",
+    "Comedy",
+    "Drama",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/3/250027l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:54:40.511Z"
+},{
+  "_id": {
+    "$oid": "63d3e8688b07a8630c5fb94e"
+  },
+  "manga_title": "Yu☆Gi☆Oh!",
+  "type": "Manga",
+  "manga_background": "High school student Yuugi Mutou spends his days being bullied between classes and his nights playing board games and solving puzzles in his bedroom. Yuugi's penchant for gameplay comes from his grandfather, whose game shop also serves as a house for the two. One night, Yuugi manages to solve the Millennium Puzzle, a seemingly impossible challenge that awakens his inner darkness and converts it into an alternate persona: Yami Yuugi. Transforming into the more bold and dangerous persona against his will in moments of great distress, Yuugi begins to moonlight as a vengeful vigilante, challenging bullies and evil-doers to risky games where failure results in fates worse than death. Yuugi and his alter ego befriend some of the very students who once bullied him, forming unbreakable companionships with them. But the group must contend with villains far deadlier than the high school punks they originally rallied against, enemies who use games for nefarious purposes and threaten Yuugi and his friends' very lives. [Written by MAL Rewrite]",
+  "story_description": "Yu☆Gi☆Oh! spawned the Trading Card Game of the same name, which is one of the most popular card games in the world and has sold over 25 billion cards since 1999. The series was published in English by VIZ Media under the Shonen Jump imprint. The publishing is divided into three parts: 7 volumes of Yu-Gi-Oh were published from May 7, 2003 to December 7, 2004, 24-volumes of Yu-Gi-Oh!: Duelist from February 1, 2005 to December 4, 2007 and 7 volumes of Yu-Gi-Oh!: Millenium World from August 2, 2005 to February 5, 2008. A special hardcover collector's edition first volume was released on September 16, 2008. A 3-in-1 omnibus edition was published from February 3, 2015 to February 6, 2018, with the final omnibus containing volumes 37 & 38.",
+  "story_by": "Takahashi, Kazuki",
+  "art_by": "Takahashi, Kazuki",
+  "volumes": 38,
+  "chapters": 343,
+  "published": "Sep 17, 1996 to Mar 8, 2004",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "serialization": "Shounen Jump (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/2/262097l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:54:40.511Z"
+},{
+  "_id": {
+    "$oid": "63d3e8688b07a8630c5fb95b"
+  },
+  "manga_title": "3.3.7 Byooshi!!",
+  "type": "Manga",
+  "manga_background": "By all the usual measures, he could be considered a pretty useless guy: a scholastic failure, an athletic disaster, and a chronic loser... But Fukuda Shinichi has one passion: cheering for others! The 18-year-old captain of North Kanto Southern High's Cheerleading squad decides to make the most of his summer by attending cram school in Tokyo, only to find out that the whole trip was a sham! Things are looking up when he and his friend meet up with two cute Tokyo girls; too bad the girls brought them to a rip-off bar and took off! Ditched by his one remaining friend and stuck with an impossibly high bar bill, Fuku-kun's life couldn't get any worse! But just then he gets saved by Ume, his role model and former cheerleading squad captain! What is he doing in Tokyo... and why does everyone around seem to know and respect him? Without anywhere else to go, Fuku-kun decides follow Ume to his job, only to discover that... he's a male gigolo?!? Fukuda's summer of cheering others on has begun... and the streets of Tokyo's red-light district will never be the same!",
+  "story_description": null,
+  "story_by": "Kubo, Mitsurou",
+  "art_by": "Kubo, Mitsurou",
+  "volumes": 10,
+  "chapters": 86,
+  "published": "Jul 25, 2001 to Jun 11, 2003",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/267905l.jpg",
+  "likes": 0,
+  "created_at": "2023-01-27T14:54:40.513Z"
+},{
+  "_id": {
+    "$oid": "63d3e8688b07a8630c5fb961"
+  },
+  "manga_title": "Air Gear",
+  "type": "Manga",
+  "manga_background": "Itsuki Minami needs no introduction—everybody's heard of the \"Babyface\" of the Eastside. He's the toughest kid at Higashi Junior High School, easy on the eyes but dangerously tough when he needs to be. Plus, Itsuki lives with the mysterious and sexy Noyamano sisters. Life is never dull, but it becomes dangerous when Itsuki leads his school to victory over some vindictive Westside punks with gangster connections. Now he stands to lose his school, his friends, and everything he cares about. But in his darkest hour, the Noyamano girls come to Itsuki's aid. They can teach him a powerful skill that will save their school from the gangsters' siege–and introduce Itsuki to a thrilling and terrifying new world. (Source: Del Rey)",
+  "story_description": "Air Gear was first published in English by Del Rey Manga who released the first 17 volumes in the period from July 25, 2006 to August 31, 2010, with the latter three volumes released as a 3-in-1 omnibus. Kodansha Comic USA has been publishing the series from volume 18 since June 14, 2011 and has been republishing the manga in 3-in-1 omnibuses since May 28, 2013. It was also published in Spanish by Norma Editorial from November 2007 to September 2013 and in Italian by Panini Comics under the Planet Manga imprint from March 23, 2007 to March 16, 2013.",
+  "story_by": "Oh! Great",
+  "art_by": "Oh! Great",
+  "volumes": 37,
+  "chapters": 358,
+  "published": "Nov 6, 2002 to May 23, 2012",
+  "genres": [
+    "Action",
+    "Award Winning",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "serialization": "Shounen Magazine (Weekly)",
+  "manga_status": "Finished",
+  "manga_image": "https://cdn.myanimelist.net/images/manga/1/167489l.jpg",
+  "likes": 1,
+  "created_at": "2023-01-27T14:54:40.514Z"
+}]

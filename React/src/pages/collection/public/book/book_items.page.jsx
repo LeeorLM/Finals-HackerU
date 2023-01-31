@@ -44,21 +44,15 @@ const PublicBookItemsPage = () => {
           .get("/user/like/getliked/" + userData.user_id + "/liked_book")
           .then((res) => {
             setUserBookLiked(res.data.liked_book);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       } else {
         axios
           .get("/user/like/getliked/" + localUserId + "/liked_book")
           .then((res) => {
             setUserBookLiked(res.data.liked_book);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       }
     } else {
       return;
@@ -89,8 +83,6 @@ const PublicBookItemsPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/book/" + user_id, newLikedItem)
       .then((res) => {
@@ -99,11 +91,8 @@ const PublicBookItemsPage = () => {
         if (res.data.status !== "fail") {
           toast("succesfuly liked item");
         }
-        console.log("new data", res);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const compareLikes = (a, b) => {
@@ -116,7 +105,6 @@ const PublicBookItemsPage = () => {
     setListPageNumber(pageNumber);
     setSliceFirstNumber(firstNumber);
     setSliceSecondNumber(secondNumber);
-    console.log("newMostLikedArr", mostLikedArr);
   };
 
   const getBooksByLetter = (ev) => {
@@ -133,12 +121,10 @@ const PublicBookItemsPage = () => {
     axios
       .get("/book/getallbooks")
       .then((res) => {
-        console.log("books", res.data);
         setBookArr(res.data);
         setUnchangedBookArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

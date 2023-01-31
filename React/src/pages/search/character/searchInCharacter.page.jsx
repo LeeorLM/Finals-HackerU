@@ -30,7 +30,6 @@ const SearchInCharacterPage = () => {
   useEffect(() => {
     getUserData();
     getAllCharacters();
-    console.log("use effect");
   }, []);
 
   const getUserData = () => {
@@ -39,12 +38,8 @@ const SearchInCharacterPage = () => {
       .then((res) => {
         let userDataArray = cloneDeep(res.data);
         setUserCharacterLiked(userDataArray[0].liked_character);
-        console.log("liked character", userDataArray[0].liked_character);
-        console.log("data", res.data);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const filteredCharacter = useMemo(() => {
@@ -56,7 +51,6 @@ const SearchInCharacterPage = () => {
   const handleShowPopup = (id) => {
     const ktemp = cloneDeep(characterArr.find((item) => item._id === id));
     setDataToShow(ktemp);
-    console.log(ktemp);
   };
 
   const handleCancelShow = () => {
@@ -78,8 +72,6 @@ const SearchInCharacterPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/character/" + user_id, newLikedItem)
       .then((res) => {
@@ -88,22 +80,17 @@ const SearchInCharacterPage = () => {
         if (res.data.status !== "fail") {
           toast("succesfuly liked item");
         }
-        console.log("new data", res);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const getAllCharacters = () => {
     axios
       .get("/character/getallcharacters")
       .then((res) => {
-        console.log("characters", res.data);
         setCharacterArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

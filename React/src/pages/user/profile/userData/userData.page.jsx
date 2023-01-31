@@ -32,15 +32,11 @@ const UserDataPage = () => {
       .get("/user/my/" + localUserId)
       .then((res) => {
         setUserArr(res.data);
-        console.log("data", res.data);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const handleEditUserInfo = (_id, updatedCard) => {
-    console.log("updatedCard", updatedCard);
     axios
       .put("/user/" + _id, updatedCard)
       .then((res) => {

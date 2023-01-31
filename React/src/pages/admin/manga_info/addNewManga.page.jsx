@@ -52,7 +52,7 @@ const AddNewMangaPage = () => {
 
   const handleGenresChange = (ev) => {
     setGenres(ev.target.value);
-    // console.log(genresArr);
+    //
   };
 
   const handleMangaStatusChange = (ev) => {
@@ -61,7 +61,6 @@ const AddNewMangaPage = () => {
 
   const handleSerializationChange = (ev) => {
     SetSerialization(ev.target.value);
-    console.log(ev.target.value);
   };
 
   const handleMangaImageChange = (ev) => {
@@ -119,11 +118,8 @@ const AddNewMangaPage = () => {
         .post("/manga/addnewmanga", dataToSend)
         .then((data) => {
           toast("new manga has been added");
-          console.log(data.data);
         })
-        .catch((err) => {
-          console.log("something went wrong", err);
-        });
+        .catch((err) => {});
     }
   };
 

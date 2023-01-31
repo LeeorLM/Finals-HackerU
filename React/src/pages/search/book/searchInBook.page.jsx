@@ -32,9 +32,6 @@ const SearchInBookPage = () => {
   useEffect(() => {
     getAllBooks();
     getUserData();
-    console.log("use effect");
-    console.log("use filter", bookArr);
-    console.log(loggedIn);
   }, []);
 
   const getUserData = () => {
@@ -44,21 +41,15 @@ const SearchInBookPage = () => {
           .get("/user/like/getliked/" + userData.user_id + "/liked_book")
           .then((res) => {
             setUserBookLiked(res.data.liked_book);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       } else {
         axios
           .get("/user/like/getliked/" + localUserId + "/liked_book")
           .then((res) => {
             setUserBookLiked(res.data.liked_book);
-            console.log("data", res.data);
           })
-          .catch((err) => {
-            console.log("err", err);
-          });
+          .catch((err) => {});
       }
     } else {
       return;
@@ -95,27 +86,19 @@ const SearchInBookPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/book/" + user_id, newLikedItem)
-      .then((res) => {
-        console.log("new data", res);
-      })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
 
   const getAllBooks = () => {
     axios
       .get("/book/getallbooks")
       .then((res) => {
-        console.log("books", res.data);
         setBookArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

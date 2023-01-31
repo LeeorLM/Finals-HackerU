@@ -34,9 +34,7 @@ const AllUsersPage = () => {
         );
         setUserArr(arr);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const getUrl = window.location.href;

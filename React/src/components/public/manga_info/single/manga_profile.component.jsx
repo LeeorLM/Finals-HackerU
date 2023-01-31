@@ -16,10 +16,10 @@ const MangaProfileComponent = (props) => {
   //   axios
   //     .put("/manga/like/" + _id)
   //     .then((res) => {
-  //       console.log(res);
+  //
   //     })
   //     .catch((err) => {
-  //       console.log(err);
+  //
   //     });
   // };
 

@@ -30,7 +30,6 @@ const SearchInMangaPage = () => {
   useEffect(() => {
     getUserData();
     getAllMangas();
-    console.log("use effect");
   }, []);
 
   const getUserData = () => {
@@ -39,12 +38,8 @@ const SearchInMangaPage = () => {
       .then((res) => {
         let userDataArray = cloneDeep(res.data);
         setUserMangaLiked(userDataArray[0].liked_manga);
-        console.log("liked manga", userDataArray[0].liked_manga);
-        console.log("data", res.data);
       })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .catch((err) => {});
   };
 
   const filteredManga = useMemo(() => {
@@ -76,27 +71,19 @@ const SearchInMangaPage = () => {
       like: true,
     };
 
-    console.log("newLikedItem", newLikedItem);
-
     axios
       .put("/user/like/manga/" + user_id, newLikedItem)
-      .then((res) => {
-        console.log("new data", res);
-      })
-      .catch((err) => {
-        console.log("err", err);
-      });
+      .then((res) => {})
+      .catch((err) => {});
   };
 
   const getAllMangas = () => {
     axios
       .get("/manga/getallmangas")
       .then((res) => {
-        console.log("mangas", res.data);
         setMangaArr(res.data);
       })
       .catch((err) => {
-        console.log("axios error", err);
         toast.error("cannot get cards", {
           position: "top-right",
           autoClose: 5000,

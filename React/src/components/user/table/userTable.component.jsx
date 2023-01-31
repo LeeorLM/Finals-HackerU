@@ -41,7 +41,6 @@ const UserTableComponent = ({ arrayForDelete, category, title, pageNumber, table
                       <button
                         className="btn-error"
                         onClick={function handleDeleteClick() {
-                          console.log("itemId", item._id);
                           onDelete(item._id, arrayForDelete);
                         }}
                       >
@@ -73,7 +72,6 @@ const UserTableComponent = ({ arrayForDelete, category, title, pageNumber, table
                       <button
                         className="btn-error"
                         onClick={function handleDeleteClick() {
-                          console.log("itemId", item._id);
                           onDelete(item._id, arrayForDelete);
                         }}
                       >
@@ -102,7 +100,6 @@ const UserTableComponent = ({ arrayForDelete, category, title, pageNumber, table
                       <button
                         className="btn-error"
                         onClick={function handleDeleteClick() {
-                          console.log("itemId", item._id);
                           onDelete(item._id, arrayForDelete);
                         }}
                       >
