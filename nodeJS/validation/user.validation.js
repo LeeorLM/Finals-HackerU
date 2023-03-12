@@ -12,7 +12,9 @@ const userEmailRole = {
 };
 
 const userPasswordRole = {
-  user_password: Joi.string().regex(new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{6,12}$")).required(),
+  user_password: Joi.string()
+    .regex(new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{6,12}$"))
+    .required(),
 };
 
 const likedMangaRole = {
