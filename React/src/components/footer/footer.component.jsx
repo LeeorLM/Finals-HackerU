@@ -10,10 +10,13 @@ const FooterComponent = () => {
           <div className="rights">
             <p>@2022 all right reserved</p>
           </div>
-          <div className="footer_icon">
-            <Link to="#">
-              <HomeIcon className="the_icon" />
-            </Link>
+          <div className="footer_icon mt-1">
+            <img
+              width="40"
+              height="40"
+              src={require("../../images/logo/apple-touch-icon.png")}
+              alt="logo"
+            />
           </div>
           <div>
             <ul className="footer_nav">

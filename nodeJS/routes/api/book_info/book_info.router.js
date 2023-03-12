@@ -12,37 +12,66 @@ router.get("/getallbooks", async (req, res) => {
     res.json(books);
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 
-router.post("/addnewbook", authMiddelware, isAdminMiddelware, async (req, res) => {
-  try {
-    const validatedValue = await bookInfoValidation.validateAddNewBookSchema(req.body);
-    console.log("validatedValue", validatedValue);
-    const bookData = await bookInfoModel.selectBookByBookTitle(validatedValue.book_title);
-    console.log("bookData", bookData);
-    if (bookData.length > 0) {
-      throw new CustomResponse(CustomResponse.STATUSES.fail, "book already exist");
+router.post(
+  "/addnewbook",
+  authMiddelware,
+  isAdminMiddelware,
+  async (req, res) => {
+    try {
+      const validatedValue = await bookInfoValidation.validateAddNewBookSchema(
+        req.body
+      );
+      console.log("validatedValue", validatedValue);
+      const bookData = await bookInfoModel.findBookByBookTitle(
+        validatedValue.book_title
+      );
+      if (bookData.length > 0) {
+        throw new CustomResponse(
+          CustomResponse.STATUSES.fail,
+          "book already exist"
+        );
+      }
+      const newBookData = await bookInfoModel.insertBook(
+        validatedValue.book_title,
+        validatedValue.manga_name,
+        validatedValue.volume_name,
+        validatedValue.vol_no,
+        validatedValue.book_description,
+        validatedValue.retail_value,
+        validatedValue.collection_value,
+        validatedValue.publisher,
+        validatedValue.isbn,
+        validatedValue.book_image
+      );
+      res.json(
+        new CustomResponse(
+          CustomResponse.STATUSES.success,
+          "book successfuly created",
+          newBookData
+        )
+      );
+    } catch (err) {
+      console.log("err", err);
+      res.json(
+        new CustomResponse(
+          CustomResponse.STATUSES.fail,
+          "something went wrong",
+          err
+        )
+      );
     }
-    const newBookData = await bookInfoModel.insertBook(
-      validatedValue.book_title,
-      validatedValue.manga_name,
-      validatedValue.volume_name,
-      validatedValue.vol_no,
-      validatedValue.book_description,
-      validatedValue.retail_value,
-      validatedValue.collection_value,
-      validatedValue.publisher,
-      validatedValue.isbn,
-      validatedValue.book_image
-    );
-    res.json(new CustomResponse(CustomResponse.STATUSES.success, "book successfuly created", newBookData));
-  } catch (err) {
-    console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
   }
-});
+);
 
 router.get("/getbook/:name", async (req, res) => {
   try {
@@ -53,7 +82,13 @@ router.get("/getbook/:name", async (req, res) => {
     res.json(book);
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 router.get("/getbooktitle/:name", async (req, res) => {
@@ -65,7 +100,13 @@ router.get("/getbooktitle/:name", async (req, res) => {
     res.json(book);
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 
@@ -77,20 +118,35 @@ router.get("/:id", async (req, res) => {
     }
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 
 router.put("/:id", async (req, res) => {
   try {
     console.log("body", req.body);
-    const { error } = await bookInfoValidation.validateUpdateBookSchema(req.body);
+    const { error } = await bookInfoValidation.validateUpdateBookSchema(
+      req.body
+    );
     if (error) {
-      throw new CustomResponse(CustomResponse.STATUSES.fail, "somethin went wrong on validation", error.details[0].message);
+      throw new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "somethin went wrong on validation",
+        error.details[0].message
+      );
     }
     const updatedAt = new Date(Date.now());
     const book = await bookInfoModel.updateBookById(req.params.id, req.body);
-    const updated = await bookInfoModel.updateUpdatedAtbyId(req.params.id, updatedAt);
+    const updated = await bookInfoModel.updateUpdatedAtbyId(
+      req.params.id,
+      updatedAt
+    );
     if (!book) {
       throw new CustomResponse(CustomResponse.STATUSES.fail, "book not found");
     }
@@ -98,7 +154,13 @@ router.put("/:id", async (req, res) => {
     res.send(card);
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 
@@ -117,12 +179,21 @@ router.put("/like/:id", async (req, res) => {
       throw new CustomResponse(CustomResponse.STATUSES.fail, "book not found");
     }
     const currentLikes = book.likes;
-    const update = await bookInfoModel.updateLikesById(req.params.id, currentLikes + 1);
+    const update = await bookInfoModel.updateLikesById(
+      req.params.id,
+      currentLikes + 1
+    );
     const updated = await bookInfoModel.selectBookById(req.params.id);
     res.json(updated.likes);
   } catch (err) {
     console.log("err", err);
-    res.json(new CustomResponse(CustomResponse.STATUSES.fail, "something went wrong", err));
+    res.json(
+      new CustomResponse(
+        CustomResponse.STATUSES.fail,
+        "something went wrong",
+        err
+      )
+    );
   }
 });
 

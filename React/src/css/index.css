@@ -911,11 +911,6 @@ footer .footer .rights {
   padding: 5px;
   margin-top: 10px;
 }
-footer .footer .footer_icon .the_icon {
-  font-size: 35px;
-  margin-top: 10px;
-  color: #000000;
-}
 footer .footer .footer_nav {
   display: flex;
   align-items: center;
@@ -947,7 +942,7 @@ footer .footer .footer_nav .footer_link:hover {
     flex-direction: column;
   }
   footer .footer .footer_nav li {
-    margin-top: 5px;
+    margin-top: 15px;
   }
 }
 .search-by-letter {

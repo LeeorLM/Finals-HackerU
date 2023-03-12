@@ -37,7 +37,10 @@ const NavbarComponent = () => {
                 <FontAwesomeIcon icon={faGear} />
               </Link>
               <div className="dropdown-content">
-                <Link to="/user/profile/info" onClick={handleMobileNavOnLinkClick}>
+                <Link
+                  to="/user/profile/info"
+                  onClick={handleMobileNavOnLinkClick}
+                >
                   Profile
                 </Link>
               </div>
@@ -47,7 +50,11 @@ const NavbarComponent = () => {
               {userData.user_email}
             </li>
             <li className="ml-1 text-hover-white">
-              <Link id="logout" className="btn-outlined-black" to="/user/logout">
+              <Link
+                id="logout"
+                className="btn-outlined-black"
+                to="/user/logout"
+              >
                 Logout
               </Link>
             </li>
@@ -83,7 +90,10 @@ const NavbarComponent = () => {
                 Character
               </Link>
               <div className="dropdown-content">
-                <Link to="/all/characters/get" onClick={handleMobileNavOnLinkClick}>
+                <Link
+                  to="/all/characters/get"
+                  onClick={handleMobileNavOnLinkClick}
+                >
                   Character
                 </Link>
               </div>
@@ -114,18 +124,53 @@ const NavbarComponent = () => {
           <Fragment>
             <ul className="display-f">
               <li className="ml-1 text-hover-white dropdown">
+                <Link to="#" className="site-link">
+                  Public
+                </Link>
+                <div className="dropdown-content">
+                  <Link
+                    to="/all/mangas/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Manga
+                  </Link>
+                  <Link
+                    to="/all/books/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Book
+                  </Link>
+                  <Link
+                    to="/all/characters/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Character
+                  </Link>
+                </div>
+              </li>
+              <li className=" divider"> | </li>
+              <li className="ml-1 text-hover-white dropdown">
                 <Link to="/admin" className="site-link">
                   Admin
                 </Link>
                 <div className="dropdown-content">
-                  <Link to="/admin/addnewmanga" onClick={handleMobileNavOnLinkClick}>
-                    Manga
+                  <Link
+                    to="/admin/addnewmanga"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Add Manga
                   </Link>
-                  <Link to="/admin/addnewbook" onClick={handleMobileNavOnLinkClick}>
-                    Book
+                  <Link
+                    to="/admin/addnewbook"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Add Book
                   </Link>
-                  <Link to="/admin/addnewcharacter" onClick={handleMobileNavOnLinkClick}>
-                    Character
+                  <Link
+                    to="/admin/addnewcharacter"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
+                    Add Character
                   </Link>
                 </div>
               </li>
@@ -135,13 +180,22 @@ const NavbarComponent = () => {
                   Collection
                 </Link>
                 <div className="dropdown-content">
-                  <Link to="/collection/admin/mangas" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/collection/admin/mangas"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Manga
                   </Link>
-                  <Link to="/collection/admin/books" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/collection/admin/books"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Book
                   </Link>
-                  <Link to="/collection/admin/characters" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/collection/admin/characters"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Character
                   </Link>
                 </div>
@@ -158,10 +212,16 @@ const NavbarComponent = () => {
                   Manga
                 </Link>
                 <div className="dropdown-content">
-                  <Link to="/all/mangas/get" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/mangas/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Manga
                   </Link>
-                  <Link to="/all/mangas/search" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/mangas/search"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Search
                   </Link>
                 </div>
@@ -171,10 +231,16 @@ const NavbarComponent = () => {
                   Book
                 </Link>
                 <div className="dropdown-content">
-                  <Link to="/all/books/get" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/books/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Book
                   </Link>
-                  <Link to="/all/books/search" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/books/search"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Search
                   </Link>
                 </div>
@@ -184,10 +250,16 @@ const NavbarComponent = () => {
                   Character
                 </Link>
                 <div className="dropdown-content">
-                  <Link to="/all/characters/get" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/characters/get"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Character
                   </Link>
-                  <Link to="/all/characters/search" onClick={handleMobileNavOnLinkClick}>
+                  <Link
+                    to="/all/characters/search"
+                    onClick={handleMobileNavOnLinkClick}
+                  >
                     Search
                   </Link>
                 </div>
@@ -201,10 +273,19 @@ const NavbarComponent = () => {
 
   return (
     <Fragment>
-      <nav className={`navbar   ${loggedIn ? (userData.isAdmin ? "bg-green" : "bg-primary") : "bg-error"}`}>
+      <nav
+        className={`navbar   ${
+          loggedIn ? (userData.isAdmin ? "bg-green" : "bg-primary") : "bg-error"
+        }`}
+      >
         <div className="container">
           <h1 className="site-title">
-            <img width="40" height="40" src={require("../../images/logo/apple-touch-icon.png")} alt="logo" />
+            <img
+              width="40"
+              height="40"
+              src={require("../../images/logo/apple-touch-icon.png")}
+              alt="logo"
+            />
           </h1>
           <ul className="display-f ">
             <li className="ml-1 text-hover-white">
@@ -218,14 +299,21 @@ const NavbarComponent = () => {
         </div>
       </nav>
       <nav
-        className={`mobile-nav ${loggedIn ? (userData.isAdmin ? "bg-green" : "bg-primary") : "bg-error"}  `}
+        className={`mobile-nav ${
+          loggedIn ? (userData.isAdmin ? "bg-green" : "bg-primary") : "bg-error"
+        }  `}
         style={{
           height: isActive ? "230px" : "50px",
         }}
       >
         <div className="container">
           <h1 className="site-title">
-            <img width="40" height="40" src={require("../../images/logo/apple-touch-icon.png")} alt="logo" />
+            <img
+              width="40"
+              height="40"
+              src={require("../../images/logo/apple-touch-icon.png")}
+              alt="logo"
+            />
           </h1>
           <div
             className="mobile-links"
@@ -239,9 +327,13 @@ const NavbarComponent = () => {
                   <NavLink to="/">Home</NavLink>
                 </li>
               </ul>
-              <div className="col-8-md col-12-xs display-f align-center justify-center">{showLogin()}</div>
+              <div className="col-8-md col-12-xs display-f align-center justify-center">
+                {showLogin()}
+              </div>
             </div>
-            <div className="display-f align-center justify-center">{showUserOptions()}</div>
+            <div className="display-f align-center justify-center">
+              {showUserOptions()}
+            </div>
           </div>
         </div>
         <Link to="#" className="icon" onClick={handleHamburgerClick}>

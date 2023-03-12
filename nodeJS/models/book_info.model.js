@@ -13,7 +13,8 @@ const bookInfoSchema = new Schema({
   isbn: { type: String, required: true },
   book_image: {
     type: String,
-    default: "https://vip12.hachette.co.uk/wp-content/uploads/2018/07/missingbook.png",
+    default:
+      "https://vip12.hachette.co.uk/wp-content/uploads/2018/07/missingbook.png",
   },
   likes: { type: Number, default: 0 },
   created_at: { type: Date, default: Date.now },
@@ -81,6 +82,10 @@ const selectBookByBookTitle = (book_title) => {
   return Books.findOne({ book_title });
 };
 
+const findBookByBookTitle = (book_title) => {
+  return Books.find({ book_title });
+};
+
 module.exports = {
   insertBook,
   selectAllBooks,
@@ -91,4 +96,5 @@ module.exports = {
   updateUpdatedAtbyId,
   selectBookByBookTitle,
   updateLikesById,
+  findBookByBookTitle,
 };

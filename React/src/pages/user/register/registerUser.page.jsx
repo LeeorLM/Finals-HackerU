@@ -3,6 +3,7 @@ import Joi from "joi-browser";
 import { cloneDeep } from "lodash";
 import { useEffect, useState } from "react";
 import { toast } from "react-toastify";
+import { useNavigate } from "react-router-dom";
 import userRegisterSchema from "../../../validations/userRegister.validation";
 
 const RegisterUserPage = () => {
@@ -13,6 +14,7 @@ const RegisterUserPage = () => {
   const [confirm_password, setConfirmPassword] = useState("");
   const [user_phone, setUserPhone] = useState("");
   const [user_image, setUserImage] = useState("");
+  const navigate = useNavigate();
 
   const handleFirstNameChange = (ev) => {
     setFirstName(ev.target.value);
@@ -81,6 +83,7 @@ const RegisterUserPage = () => {
             toast("failed to register: email already exist");
           } else if (data.data.status === "success") {
             toast("new user successfuly created");
+            navigate("/user/login");
           }
         })
         .catch((err) => {});
@@ -89,11 +92,16 @@ const RegisterUserPage = () => {
 
   return (
     <div className="container contentForm mt-3">
-      <h1 className="adminTitle display-f justify-center mb-2 mt-2">Login</h1>
+      <h1 className="adminTitle display-f justify-center mb-2 mt-2">
+        Register
+      </h1>
       <div className="insideContent  display-f justify-center align-center">
         <div className="row display-f align-center justify-space-between">
           <div className="col-5-md col-12-xs  display-f align-center justify-center mb-2">
-            <p>Here you can register to the website to be able to Login and like your favorite manga,book and character</p>
+            <p>
+              Here you can register to the website to be able to Login and like
+              your favorite manga,book and character
+            </p>
           </div>
           <div className="col-6-md col-12-xs mb-2">
             <form onSubmit={handleSubmit}>
@@ -102,13 +110,25 @@ const RegisterUserPage = () => {
                   <label htmlFor="first_name" className="form-label">
                     First Name
                   </label>
-                  <input type="text" className="form-control" id="first_name" value={first_name} onChange={handleFirstNameChange} />
+                  <input
+                    type="text"
+                    className="form-control"
+                    id="first_name"
+                    value={first_name}
+                    onChange={handleFirstNameChange}
+                  />
                 </div>
                 <div className="mb-3 col-6-md">
                   <label htmlFor="last_name" className="form-label">
                     Last Name
                   </label>
-                  <input type="text" className="form-control" id="last_name" value={last_name} onChange={handleLastNameChange} />
+                  <input
+                    type="text"
+                    className="form-control"
+                    id="last_name"
+                    value={last_name}
+                    onChange={handleLastNameChange}
+                  />
                 </div>
               </div>
               <div className="mb-3">
@@ -131,7 +151,13 @@ const RegisterUserPage = () => {
                 <label htmlFor="user_password" className="form-label">
                   Password
                 </label>
-                <input type="password" className="form-control" id="user_password" value={user_password} onChange={handleUserPasswordChange} />
+                <input
+                  type="password"
+                  className="form-control"
+                  id="user_password"
+                  value={user_password}
+                  onChange={handleUserPasswordChange}
+                />
               </div>
               <div className="mb-3">
                 <label htmlFor="confirm_password" className="form-label">
@@ -149,13 +175,25 @@ const RegisterUserPage = () => {
                 <label htmlFor="user_phone" className="form-label">
                   Phone Number
                 </label>
-                <input type="text" className="form-control" id="user_phone" value={user_phone} onChange={handleUserPhoneChange} />
+                <input
+                  type="text"
+                  className="form-control"
+                  id="user_phone"
+                  value={user_phone}
+                  onChange={handleUserPhoneChange}
+                />
               </div>
               <div className="mb-3">
                 <label htmlFor="user_image" className="form-label">
                   User Image
                 </label>
-                <input type="text" className="form-control" id="user_image" value={user_image} onChange={handleUserImageChange} />
+                <input
+                  type="text"
+                  className="form-control"
+                  id="user_image"
+                  value={user_image}
+                  onChange={handleUserImageChange}
+                />
               </div>
               <button type="submit" className="btn-outlined-primary">
                 Submit

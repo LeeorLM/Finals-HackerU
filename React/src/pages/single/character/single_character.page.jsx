@@ -20,7 +20,7 @@ const SingleCharacterPage = (title) => {
   }, []);
 
   const handleShowMangaPopup = (id, title) => {
-    const ktemp = cloneDeep(mangaArr.find((item) => item.manga_title === title));
+    const ktemp = cloneDeep(mangaArr);
     setDataToShowManga(ktemp);
   };
 
@@ -61,24 +61,35 @@ const SingleCharacterPage = (title) => {
     <div className="container">
       {mangaArr && characterArr && (
         <Fragment>
-          <h1 className="adminTitle mb-2 display-f justify-center mt-2">{characterArr.character_name}</h1>
+          <h1 className="adminTitle mb-2 display-f justify-center mt-2">
+            {characterArr.character_name}
+          </h1>
           <div className="card">
             <div className="row">
               <div className="col-5-lg col-12-xs display-f align-center justify-center">
-                <img src={characterArr.character_image} className="card-img" alt={characterArr.character_name} />
+                <img
+                  src={characterArr.character_image}
+                  className="card-img"
+                  alt={characterArr.character_name}
+                />
               </div>
               <div className="col-7-lg col-12-xs">
                 <div className="card-body ">
                   <h5 className="card-title"> {characterArr.character_name}</h5>
                   <ul className="list-group">
                     <li className="list-group-item">
-                      <span className="list-item-label mr-1">Role: </span> {characterArr.character_role}
+                      <span className="list-item-label mr-1">Role: </span>{" "}
+                      {characterArr.character_role}
                     </li>
 
                     <li className="list-group-item">
-                      <span className="list-item-label">Character Background: </span>
+                      <span className="list-item-label">
+                        Character Background:{" "}
+                      </span>
                       <br />
-                      <div className="mt-1">{characterArr.character_background}</div>
+                      <div className="mt-1">
+                        {characterArr.character_background}
+                      </div>
                     </li>
                   </ul>
                 </div>
@@ -97,7 +108,9 @@ const SingleCharacterPage = (title) => {
               <br />
               <div className="row">
                 <div className="col-6-md col-12-xs">
-                  <h3 className="adminTitle display-f justify-center mb-1 mr-1">Related Mangas</h3>
+                  <h3 className="adminTitle display-f justify-center mb-1 mr-1">
+                    Related Mangas
+                  </h3>
                   <div className="list-group">
                     {mangaArr.manga_title ? (
                       <RelatedComponent
@@ -119,7 +132,12 @@ const SingleCharacterPage = (title) => {
                 </div>
               </div>
             </div>
-            {dataToShowManga && <MangaProfileComponent onCancelShow={handleCancelShow} {...dataToShowManga} />}
+            {dataToShowManga && (
+              <MangaProfileComponent
+                onCancelShow={handleCancelShow}
+                {...dataToShowManga}
+              />
+            )}
           </div>
         </Fragment>
       )}
